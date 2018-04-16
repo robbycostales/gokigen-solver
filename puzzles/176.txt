@@ -1,0 +1,43 @@
+
+
+begin
+author Luke Pebody
+solver Rainer
+source http://blog.puzzlearena.com/
+info 016
+unit 40
+size 10
+problem
+0 1 - 0 2 - 2 - - - -
+- 2 1 - - - - 2 - 3 -
+1 - - - - 2 3 2 - 2 2
+1 3 - 1 - 3 - - 4 - 0
+0 - - 2 2 - 2 2 2 - -
+2 1 3 - 2 - 1 3 - - 2
+0 3 - 2 - 2 - 2 3 1 -
+- - 2 2 2 1 3 1 2 2 -
+- 2 - - - - 2 3 - - -
+- 2 - 2 2 3 - - - - 2
+0 1 - 0 - 1 - 1 - 1 0
+solution
+/ / \ / \ / \ \ \ /
+\ \ \ \ \ \ \ \ \ \
+\ / / \ / / \ \ / /
+\ \ / / / \ \ / \ \
+/ / / / / \ \ / \ \
+\ / \ \ \ \ / / / /
+/ / / / / / / / \ /
+\ \ \ \ \ / \ / \ /
+/ / / \ \ / \ \ \ \
+\ \ / \ \ \ \ \ / /
+moves
+Z2;aa,1;ba,1;da,1;ca,2;ea,2;ga,2;fa,1;bc,1;bd,2;ad,2;
+ac,2;ab,2;ae,1;af,2;ag,1;bb,2;cb,2;aj,2;bj,2;dj,2;cj,1;
+ci,1;di,2;ei,2;fi,1;ej,2;fj,2;ce,1;cf,2;jj,1;ij,1;ji,2;
+jf,1;je,2;ig,2;if,1;jg,1;jh,1;ih,2;jd,2;jc,1;jb,2;ib,2;
+ic,1;hd,1;hc,2;id,2;hb,2;ia,2;ja,1;ha,2;gb,2;gc,2;fb,2;
+fc,1;ec,1;eb,2;fd,2;ed,1;gd,2;ge,2;he,1;ie,2;hf,1;gf,1;
+hg,1;gg,1;hh,1;gh,2;fe,2;ff,2;ee,1;eg,1;eh,2;dh,2;dg,1;
+cg,1;ch,2;bh,2;bg,1;bf,1;be,1;df,2;cd,1;cc,1;dd,1;dc,2;
+db,2;de,1;ef,2;fg,1;fh,1;gi,2;gj,2;hj,2;hi,2;ii,2;ai,1;
+bi,1;ah,2;

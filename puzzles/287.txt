@@ -1,0 +1,58 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-20-481850-0-252
+unit 40
+rows 12
+cols 18
+problem
+- 2 0 - 2 - - 1 - - 2 - - 1 - - 1 - -
+- - 2 2 - - 3 - 4 - - 2 - - 2 3 - - -
+- - - - - 3 - 2 - - 2 2 4 - 1 - - 2 -
+- 3 - - 2 2 2 - - - - 2 2 - - 3 - 3 -
+0 - 3 2 - - 1 - 2 - 2 3 - - 3 - 1 - -
+- - - 1 3 2 - 3 - 1 - - 3 3 - - - 4 -
+1 - - - - - 2 - 3 - - - 2 - - - - - -
+1 - 3 1 - - - 4 - 1 2 3 - - 1 - - - 1
+1 - 2 - 3 - - 1 2 2 - 2 - 2 - - 2 - 1
+1 - - - - 3 1 1 - - 3 1 2 - 1 4 - - 0
+0 - 1 - 4 - - 2 - - - - - 3 1 - 2 2 -
+1 2 2 - - 2 - 3 1 2 3 - - - - - - 2 1
+- 1 - 1 1 - - - - 2 - - - 2 - 0 - - 1
+solution
+/ \ / / \ \ \ \ / / \ \ / / \ / / /
+\ \ / / \ / \ / \ \ \ \ / / \ \ \ /
+\ / / / / / \ / / / / / \ \ \ / \ /
+\ \ / / / / \ \ \ / / / \ / / / \ \
+/ \ \ \ / \ \ / / / / \ \ / \ \ \ /
+\ \ \ / / \ \ \ \ / / / \ \ \ / / \
+\ / / \ / \ \ / \ \ \ / \ / \ \ / /
+\ / \ \ / / / \ \ / / / \ / / / \ /
+\ / \ / / / \ \ \ / / / \ / \ / \ /
+\ / \ \ / \ \ / \ / \ / \ / / \ \ \
+/ / / / \ \ \ / \ / / / \ \ / \ \ \
+/ / / / / / \ \ \ / \ \ \ / / \ \ \
+moves
+Z2;aa,1;ca,1;ba,2;bb,2;cb,1;ae,1;ad,2;ac,2;bd,2;bc,1;
+ab,2;ea,2;da,1;db,1;ia,1;hb,1;ib,2;ha,2;ga,2;fa,2;gb,2;
+fb,1;hc,1;gc,2;ka,2;ja,1;lc,1;mb,1;lb,2;mc,2;la,2;kb,2;
+jc,1;kc,1;jb,2;le,2;ke,1;ld,1;md,2;me,2;kd,1;jd,1;je,1;
+jf,1;ie,1;if,2;ig,2;hf,2;hg,1;gh,1;gg,2;hh,2;gf,2;ih,2;
+jg,2;jh,1;he,1;ge,2;fe,2;gd,2;fd,1;fc,1;ec,1;eb,2;dc,1;
+ed,1;dd,1;mf,2;lf,1;lg,1;mg,2;nf,2;ne,1;kf,1;kg,2;kh,1;
+lh,1;qf,1;re,1;rf,2;qe,2;qd,2;pe,2;pd,1;pc,1;od,1;oc,2;
+ob,2;nc,2;nb,1;na,1;ma,1;oa,2;pb,2;pa,1;qa,1;rc,1;rd,2;
+qc,2;qb,2;rb,1;ra,1;nd,1;oe,2;of,2;pf,1;ri,1;rh,1;rg,1;
+qg,1;rj,2;rl,2;rk,2;pj,2;oi,2;nk,2;ni,1;ok,1;oj,1;pi,1;
+nj,1;pk,2;pl,2;ol,1;nl,1;ml,2;mk,2;mj,2;lj,1;kj,2;mi,2;
+li,1;ki,1;nh,1;mh,2;og,2;oh,1;ng,1;ph,1;pg,2;qh,2;qi,2;
+qj,2;qk,2;ql,2;lk,1;gj,2;hi,2;fj,2;fi,1;hj,1;gi,2;ii,2;
+ji,1;jj,1;hk,1;gk,2;il,2;jl,1;ik,2;hl,2;gl,2;jk,1;kk,1;
+kl,2;ll,2;ij,2;ek,2;dj,2;ej,1;dk,1;ei,1;eh,1;di,1;dh,2;
+dg,2;ch,2;cg,1;fk,2;fh,1;fg,2;ff,2;aj,2;ak,1;al,1;bl,1;
+bk,1;ck,1;bj,1;cj,2;cl,1;dl,1;el,1;fl,1;ai,2;ah,2;ag,2;
+af,2;de,2;df,1;ce,2;cd,1;be,2;cf,2;bf,2;bg,1;bh,1;bi,1;
+ci,2;id,2;hd,2;ic,1;ee,1;ef,1;eg,1;cc,1;

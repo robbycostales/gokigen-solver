@@ -1,0 +1,43 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-51-354852-0-505
+unit 40
+size 10
+problem
+- - 0 - - 0 2 - - 1 -
+0 - - - 3 3 - - - - 2
+- 3 - 2 - - - 2 - 3 -
+2 - - - 3 - 2 - - 1 -
+1 - - - - - - 2 3 2 -
+- 2 2 - 1 - - 3 2 - -
+1 - - - - 4 - 3 - 2 -
+2 1 - - 2 - - 1 - 2 1
+1 2 - - 1 1 3 2 - - 0
+- 2 - 1 3 - - - 3 - -
+1 - 1 - - 0 2 - - - -
+solution
+\ \ / \ \ / \ \ \ \
+/ / / / \ \ \ \ / /
+/ \ \ \ \ / / / / \
+\ \ / / \ \ \ / / /
+\ \ \ / \ / \ / \ \
+/ / / \ \ / / / \ /
+/ \ / / / \ / \ \ /
+\ \ / / / \ / / \ /
+\ \ / \ / / / / / \
+/ / / / / \ / / \ \
+moves
+Z2;ab,1;aa,2;ba,2;ca,1;bb,1;ac,1;bc,2;ad,2;ae,2;bd,2;
+ea,2;fa,1;db,1;eb,2;da,2;fb,2;cb,1;cc,2;dc,2;ec,2;ed,2;
+dd,1;ga,2;gb,2;ja,2;jb,1;ia,2;jh,1;ji,2;jg,1;gg,1;he,1;
+hg,2;ge,2;gd,2;hd,1;id,1;ie,2;je,2;jd,1;ic,1;jc,2;ib,1;
+hf,1;if,2;gf,1;ig,2;jf,1;ih,2;fh,2;di,2;dh,1;fi,1;ej,1;
+fj,2;gj,1;gi,1;gh,1;hh,1;hi,1;ii,1;hj,1;ij,2;jj,2;fg,2;
+ef,2;ff,1;eg,1;de,1;ee,2;df,2;dg,1;eh,1;ei,1;dj,1;aj,1;
+ag,1;af,1;ah,2;ai,2;bi,2;bj,1;cj,1;ci,1;bh,2;bg,2;ch,1;
+bf,1;be,2;ce,2;cf,1;cg,1;cd,1;fe,1;fd,2;fc,1;gc,1;hc,1;
+hb,2;ha,2;

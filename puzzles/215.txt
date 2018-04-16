@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-80-905309-0-809
+unit 36
+size 14
+problem
+- 1 - - - - - - 1 - - 1 - - -
+- - 2 3 - - 3 2 - 2 - 1 3 2 -
+- 1 1 - 3 - - - 3 - 3 - 2 - 1
+- - 1 - 2 3 - - 3 - - 2 1 2 -
+- 1 - 1 - 2 - 1 - - - 1 - 2 -
+1 2 1 - 3 2 1 - - 1 1 - 1 1 -
+- 2 1 2 - - - 3 - - 1 - - 2 -
+1 - - 2 - 1 2 - 2 - - - 2 2 -
+1 3 - 3 - 2 - 2 2 2 2 - 2 - -
+1 - 2 2 - 3 - - - - 1 1 - 2 -
+1 - 2 - - - 2 - - 3 - - 2 1 -
+- 1 - 3 - - 2 3 1 - 3 - 1 - -
+- - - - - 2 1 2 2 3 - 3 - 2 1
+- 1 - 2 1 - - 1 2 - 1 - 2 1 -
+- - 1 - - 1 1 - - - - - - - -
+solution
+/ / \ / / / / / / \ \ \ / \
+/ / \ \ / / \ \ / \ \ / / \
+\ / / \ \ / / / / / \ \ \ \
+/ \ / \ \ \ / / \ / \ \ / /
+/ / \ \ / / \ / / / \ / \ \
+/ / / / / / / / \ / / \ \ /
+\ \ / / / / / \ \ \ / \ \ /
+\ / / / \ / / / / / \ \ \ /
+\ \ / \ \ / / / / / \ \ \ \
+\ \ / \ / / / \ \ \ \ / \ \
+\ \ / / / / / / / \ \ / \ /
+\ / / \ / / / \ / / \ / / \
+/ \ / / \ \ / \ / \ \ \ / \
+\ \ \ \ \ \ \ \ / \ / \ / /
+moves
+Z2;bb,1;cd,1;cc,1;ab,1;ac,2;cb,2;bd,2;bc,1;ba,1;aa,1;
+ca,2;db,2;da,1;dc,2;ec,2;eb,1;ea,1;ib,1;hd,1;id,2;hb,2;
+ge,2;he,1;gd,1;lb,1;kb,2;kc,2;jb,2;jc,1;ic,1;hc,1;ia,1;
+ja,2;ha,1;ga,1;gb,2;ld,2;lc,2;kd,2;ke,2;le,1;md,1;mc,2;
+mb,1;ma,1;la,2;ka,2;nc,2;nd,1;nb,2;na,2;nf,1;mf,2;lf,2;
+ne,2;me,2;mg,2;ng,1;nh,1;mh,2;jg,2;kg,1;je,1;ie,1;kf,1;
+if,2;jf,1;jd,1;li,2;jj,2;ji,1;lj,1;mi,2;lh,2;lg,2;mk,2;
+ij,2;jk,2;ik,1;il,1;hk,1;hl,2;jm,2;jl,1;im,1;hm,2;hn,2;
+in,1;kn,1;km,2;jn,2;kl,2;lm,2;ll,1;lk,1;ml,1;kk,2;mj,2;
+nj,2;nk,1;ni,2;mm,1;mn,1;ln,2;nn,1;nm,2;nl,2;gn,2;gm,1;
+gl,1;gk,1;fl,1;fm,2;em,2;el,1;fk,1;hj,2;fn,2;en,2;dn,2;
+dm,1;cm,1;cn,2;bn,2;bm,2;an,2;am,1;bh,1;bi,2;bg,2;ce,2;
+cg,1;be,1;dg,1;ci,1;di,2;ch,1;dh,1;cj,1;dj,2;bj,2;bk,2;
+ck,1;dk,1;cl,1;dl,2;ek,1;ei,2;fi,1;fh,1;eh,2;ed,2;dd,2;
+de,2;fd,2;fc,1;gc,1;fb,1;fa,1;kh,2;bf,1;cf,1;df,1;af,1;
+ag,2;ah,2;ai,2;aj,2;ak,2;al,2;bl,1;ae,1;ad,1;gf,1;hf,1;
+gg,1;hg,2;gh,1;fg,1;eg,1;ef,1;ee,1;fe,1;ff,1;ig,2;jh,1;
+gi,1;ih,1;hh,1;hi,1;ii,1;ki,2;kj,2;gj,1;fj,1;ej,1;

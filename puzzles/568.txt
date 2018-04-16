@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-44-239575-1-445
+unit 30
+size 14
+problem
+- - 2 - - - 2 - - 2 1 - 1 1 -
+- 3 - 4 - - - 2 - - - 2 - 2 1
+- - - - 2 2 - - 3 - - - 1 - 1
+- - 1 - 4 - - - 2 3 2 - 3 - 0
+- - 1 4 - - 3 - - 1 - 4 1 - -
+- 2 3 - - 2 - 1 4 - - 2 - - 2
+0 3 2 - - 3 - 2 2 - 2 - - - 0
+- - - - - - - 1 - - - - 1 - -
+- - - 2 2 2 3 3 - - 2 - - 2 2
+1 - 4 - - 2 2 - 1 - - 3 - - -
+2 - 2 2 - - - 1 3 1 - - 1 - 2
+- - - - 3 - 1 3 2 - 3 2 - - -
+0 - 2 1 - 3 - - 2 2 2 1 2 - 0
+- - 1 - 3 - - - - - 2 - - - -
+- 1 - 2 - - 0 - 0 - - - - 0 -
+solution
+\ / \ / / / \ \ / \ \ / / /
+/ / / \ / \ \ \ / \ \ / / /
+/ / \ \ / \ \ \ \ \ \ \ / /
+\ \ \ / \ \ / / / \ \ / / \
+\ \ / \ \ / / \ / / / \ / \
+\ \ \ \ \ / / / \ \ / \ / /
+/ \ \ / / / / / \ \ / / \ \
+/ \ \ \ \ \ \ / \ \ \ \ \ \
+/ \ / / / / \ \ \ \ \ / / /
+/ / \ \ / / \ \ / \ / / \ \
+\ / \ \ / / \ / / / / / / /
+\ / \ \ \ / / / / / \ \ \ /
+/ / \ / / / / / / / \ / / \
+\ \ \ / \ / \ / \ / \ \ / \
+moves
+Z2;ba,1;ca,2;db,2;da,1;cb,1;bb,1;ab,1;aa,2;dc,2;ed,2;
+ec,1;dd,1;eb,1;ea,1;fa,1;ga,2;cd,2;de,2;ce,1;bc,1;cc,2;
+bd,2;be,2;ac,1;ee,2;af,2;ag,1;bf,2;ae,2;cf,2;df,2;bg,2;
+cg,2;ia,1;ja,2;ka,2;nc,1;nd,2;nb,1;na,1;ma,1;la,1;lb,1;
+kb,2;mb,1;mc,1;lc,2;ld,1;ke,1;kd,2;le,2;md,1;me,1;nf,1;
+ne,2;ng,2;nh,2;ni,1;nk,1;nj,2;nm,2;nl,1;nn,2;mn,1;mh,2;
+mi,1;lh,2;mg,2;lg,1;mf,1;kf,1;lf,2;kg,1;kc,2;in,2;hn,1;
+fn,1;gn,2;cn,2;dn,1;am,1;al,2;ak,2;aj,1;ai,1;bi,2;cj,2;
+ci,1;bj,1;bk,1;ck,2;bn,2;cm,2;bm,1;bl,1;cl,2;dl,2;dm,1;
+em,1;en,2;an,2;fm,1;fl,1;el,2;dk,2;ek,1;fk,1;gl,1;gk,2;
+dj,2;fh,2;fi,1;hh,1;hi,2;ii,2;hj,2;ij,1;hf,1;ie,1;if,2;
+he,2;jd,2;je,1;id,1;jc,2;ic,2;hc,2;hd,1;hg,1;ig,2;gh,2;
+gg,1;gf,1;ge,1;gd,1;fe,1;fd,2;hb,2;ib,1;ha,2;gb,2;ef,2;
+ff,1;fb,2;fc,2;gi,2;gj,2;fj,1;hk,1;hl,1;eh,2;ei,1;di,1;
+dh,2;ch,2;bh,2;ah,1;ej,1;ik,1;jk,1;jj,2;kk,1;jl,1;kl,2;
+ll,2;km,2;lm,1;mm,1;ml,2;lk,1;lj,1;mk,1;mj,2;ki,2;li,1;
+kj,1;kh,2;ji,2;jh,2;jg,2;jf,2;jb,2;jm,1;jn,1;kn,2;il,1;
+im,1;hm,1;gm,1;ln,2;ih,2;fg,1;eg,1;dg,1;gc,2;ad,2;

@@ -1,0 +1,34 @@
+
+
+begin
+author Otto Janko
+solver Otto Janko
+source https://www.janko.at/Raetsel/
+info 9037-22-716177-1-438
+unit 40
+size 8
+problem
+- 1 0 - - - - - 1
+- 1 - - 1 2 2 - -
+0 - - 2 - - - - 0
+- - 3 - 2 - 2 2 2
+1 - 2 - 2 2 - 2 -
+1 - 2 - 2 - 3 - 2
+1 - 2 - - - - 2 -
+- 3 1 1 2 - - - -
+0 - 1 - - - 2 0 -
+solution
+\ \ / / \ \ \ /
+\ / / / / / / /
+/ / / / / \ \ \
+\ / \ / / / / /
+\ / \ \ \ \ \ \
+\ / \ / / / \ /
+\ / \ \ \ \ \ /
+\ \ \ / / \ / \
+moves
+Z2;L0;aa,2;bb,1;ag,2;bh,2;bg,1;ch,2;cg,2;dg,2;dh,1;
+eh,1;eg,2;af,2;ae,2;ad,2;bf,1;cf,2;ce,2;be,1;bd,1;cd,2;
+bc,1;cc,1;cb,1;gd,1;ge,2;fe,2;gf,2;ff,1;gg,2;hg,1;fg,2;
+gc,2;fc,2;fd,1;ed,1;ee,2;dd,1;de,2;dc,1;ec,1;db,1;da,1;
+eb,1;ea,2;fb,1;fa,2;ga,2;gb,1;ef,1;df,1;

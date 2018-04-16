@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-38-827057-5-445
+unit 36
+size 14
+problem
+- 1 1 - - - - - - - 1 - - 1 -
+1 - - - - 3 2 - 3 1 - 3 - 2 1
+- 2 2 2 1 1 - 2 3 - 1 - 3 2 1
+- - - - 3 - - 3 - 1 - 1 2 2 -
+- 1 1 - 1 - 2 - - 2 2 - - 2 1
+- 1 - - - 3 - 3 - - - 2 2 - -
+- 3 - - - 3 1 - 1 - 1 1 3 - -
+1 - 3 - 1 2 - 2 - - 3 - - 3 -
+- - - 2 - - - - - - - 2 1 - -
+- - 3 1 - - 1 2 - - - 1 - 2 -
+1 3 2 - 1 - - 3 3 - - - 2 - -
+- 2 2 - 2 2 3 - - 3 1 2 - - 1
+1 2 - 2 - 3 - - - 1 - 1 - 3 -
+- 1 1 - 2 - 3 - 2 - - - 3 2 1
+- - 1 - - - - 1 - 1 - - 1 1 -
+solution
+/ / / / \ / / \ / / / / \ \
+/ / / / \ \ \ \ \ / / \ \ \
+\ \ \ \ \ / / / \ \ / / \ \
+/ \ \ / \ / / \ \ / \ / \ \
+\ \ / \ \ / / / \ / \ \ \ \
+\ / / \ / / / \ \ / \ \ \ \
+\ \ / / / \ / \ / \ \ / \ /
+\ / / \ / \ / \ / / \ \ \ \
+\ \ / \ / / \ \ / / \ \ / /
+\ / / / \ \ \ \ / / \ / / /
+\ \ \ / / / / \ \ / / \ \ /
+/ / / / / / \ \ \ \ / \ \ /
+/ / \ \ / \ \ \ \ / \ \ / /
+\ / / \ / / \ \ \ \ \ / / /
+moves
+Z2;db,1;fc,1;fb,2;dc,2;cc,2;cb,1;bb,1;bc,2;ac,2;ab,1;
+aa,1;ba,1;ca,1;ad,1;ce,1;bf,1;cd,2;bd,2;af,2;be,2;ae,2;
+ha,2;ic,2;hc,1;ia,1;jd,1;jc,2;id,2;ie,2;je,1;lb,2;lc,1;
+ld,1;kc,1;kd,2;ke,2;jf,1;lg,1;lf,2;jg,2;kf,2;le,2;kg,2;
+kh,2;jh,1;li,2;lh,2;ki,2;kj,2;mh,2;mi,1;lj,1;ji,1;ng,1;
+nh,2;mg,2;mf,2;me,2;md,2;mc,2;mb,2;ma,2;na,2;nb,2;nc,2;
+nd,2;ne,2;nf,2;lm,2;ln,1;mn,1;nn,1;nm,1;nl,1;mm,1;ml,2;
+nk,1;kl,1;ll,2;km,2;lk,2;kk,1;mj,1;mk,2;nj,1;ni,1;jk,1;
+jl,2;ik,2;gj,2;gk,1;ij,1;il,2;im,2;jm,1;fi,1;gi,2;fj,2;
+jj,1;bm,1;cm,2;an,2;am,1;bn,1;cn,1;al,1;bl,1;bj,1;bk,2;
+ck,2;cl,1;dl,1;dm,2;cj,1;dj,1;ci,1;di,2;dh,2;ch,1;bi,2;
+ak,2;aj,2;ai,2;bh,1;cg,1;bg,2;ag,2;ah,2;cf,1;eg,1;fe,1;
+fg,2;ee,2;fh,2;eh,1;dg,1;ei,1;ed,2;de,2;dd,1;ec,2;eb,2;
+ea,2;fa,1;ga,1;gb,2;hb,2;ib,2;gc,1;gd,1;hd,2;da,1;fd,1;
+ge,1;he,1;gf,1;hf,2;gg,1;ff,1;ig,1;if,2;hg,2;hh,2;gh,1;
+ef,1;df,2;ih,1;hi,2;hj,2;hk,2;ii,1;jb,1;ja,1;kb,1;ka,1;
+la,1;fl,1;fm,2;ej,2;el,1;em,1;en,1;dn,2;dk,1;ek,1;fk,1;
+gl,2;hl,2;gm,2;gn,2;fn,1;hn,2;in,2;hm,2;jn,2;kn,2;

@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-99-467918-5-366
+unit 36
+size 14
+problem
+- - - - - - - 1 - - - - 1 - -
+- 1 - 2 3 - 1 1 3 - 2 - 2 3 -
+- - 3 2 2 - - 2 - - 2 1 - 1 -
+1 3 - - 1 2 3 - 1 - - 1 1 - -
+1 - 1 - 1 - - 3 - 2 3 - 3 1 -
+- 2 - - 3 - - - - 2 2 - - 2 -
+- 1 2 - - 2 - - 2 - - - - 1 1
+- - 1 2 2 - 2 - - 2 1 - - - -
+1 1 - - 1 - 2 - - 2 - - - 1 1
+- 2 - - - - 3 - - 3 - 1 - 1 -
+- 2 3 - 1 1 - 3 - 2 2 - - 2 -
+- - - 3 - 3 1 - - - 2 1 - - -
+- 1 2 1 - - - 2 - - 2 - 3 1 1
+- 3 - 1 - 3 1 - 1 - 1 2 2 3 -
+- 1 1 - 1 1 - 1 - - - 1 1 - 1
+solution
+/ \ \ / / / \ \ \ \ / \ \ /
+\ \ \ / \ \ \ / \ \ / \ \ \
+\ / \ / \ \ \ / \ \ / / \ /
+\ \ \ / / / \ \ \ \ \ / / \
+\ \ / \ / / / \ / / \ / \ \
+/ / / / / \ / / / / \ / / /
+\ / / / / \ / \ \ / \ \ \ /
+/ \ / / / \ / \ \ / / / / \
+/ / / \ / \ / / \ / / \ \ \
+\ \ / / \ \ \ / / / / / \ /
+\ \ \ \ \ / \ \ / / / \ \ /
+/ / / \ \ \ \ / \ \ \ \ / \
+\ / / / \ / \ / \ \ \ \ \ \
+\ \ \ / / / / / / \ / / / \
+moves
+Z2;bc,1;bd,2;cd,2;be,2;ce,1;dc,1;ee,1;ec,2;de,2;eb,2;
+db,1;gb,2;hb,1;fa,1;ga,2;fb,2;ha,2;kb,1;ld,1;kc,1;md,1;
+mc,2;kd,2;lb,2;lc,1;le,1;me,2;mb,2;ma,2;nb,2;na,1;nc,1;
+la,2;mf,1;mg,2;lf,1;nf,1;ne,2;nd,2;ng,1;ke,2;jd,2;je,1;
+jf,1;kf,2;id,2;ie,1;hc,1;hd,2;ic,2;gc,2;gd,2;fc,2;he,2;
+ge,1;fd,1;fe,1;ed,1;dd,1;mh,1;nj,1;mj,2;mi,2;nh,2;ni,2;
+mk,2;nk,1;ml,1;mm,2;lm,2;ll,2;lk,2;kl,2;kk,1;jk,1;jl,2;
+km,2;jm,2;jn,2;kn,1;ln,1;mn,1;nn,2;nm,2;nl,2;em,2;fm,1;
+dn,1;cl,1;dl,2;cn,2;bn,2;an,2;am,2;bm,1;cm,1;bl,1;dm,1;
+al,1;en,1;fn,1;gn,1;hn,1;in,1;gm,2;hm,1;im,2;gl,2;hl,1;
+fk,1;gk,2;fl,2;el,2;ek,2;ej,2;dk,2;dj,1;fj,2;ck,2;bk,2;
+bj,2;cj,1;bh,2;bi,1;ai,1;aj,2;ak,2;ah,1;ci,1;bg,1;gi,1;
+hj,1;hk,2;gj,2;fi,2;fh,2;gh,1;gg,1;fg,2;il,2;if,1;bb,2;
+ba,2;ab,2;aa,1;cc,2;cb,2;ca,2;da,1;ea,1;jc,2;jb,2;ja,2;
+ka,1;ib,2;ia,2;hi,1;ik,1;ij,1;jj,1;ji,1;ii,2;ih,2;jh,1;
+jg,1;ig,2;hg,2;hf,1;kg,2;kh,1;kj,1;ki,1;lj,1;li,2;lh,1;
+lg,2;gf,1;ff,2;ef,1;eg,1;df,1;cf,1;cg,1;bf,1;af,1;ag,2;
+ae,2;ad,2;ac,2;ch,1;dg,1;dh,1;eh,1;ei,1;di,2;hh,2;

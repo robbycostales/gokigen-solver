@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-89-247175-5-826
+unit 36
+size 14
+problem
+- - - 1 - - - - 1 - - - 1 1 -
+1 - 3 - 3 - 2 - - 3 1 - - 1 1
+- 1 - 2 1 1 - 2 1 - 3 - - - -
+- - - 1 - - - 2 - - - 3 2 3 -
+1 - 2 - 3 - 2 - 1 - 1 1 - 1 1
+- 1 - - - - 2 - - 2 - 2 - 1 -
+- 1 1 - 2 1 - 1 3 - - 1 3 2 -
+- 3 - - 1 - 3 - - 2 2 - - - -
+1 - - 2 - - - 1 - 2 1 - - 1 -
+- 1 2 2 - 3 2 2 - - 3 - 2 2 -
+- - 3 3 2 - - - - 3 - - 3 3 -
+- 2 2 - - - - 1 - 2 - 1 2 1 -
+1 1 - 2 2 - 2 1 - - 1 3 - 2 -
+- 3 - 1 2 - 1 - 1 - 2 1 - 3 -
+- - 1 - - 1 - - - 1 - - - - -
+solution
+/ \ / / / \ / \ \ / \ / / /
+/ / / / \ \ / / \ \ \ \ \ /
+\ / \ \ \ / / / / / \ \ / /
+/ \ \ / / \ / / \ / / \ / \
+/ \ \ / \ \ / \ \ \ / / \ \
+/ / \ / \ \ / \ \ \ \ \ \ /
+\ / / / \ / / / \ \ \ / \ /
+/ / / / / / \ \ \ \ \ / / \
+/ \ / / \ \ \ / \ \ / \ / /
+\ \ / / / \ \ / \ / / \ / /
+/ / / \ \ \ / \ \ \ / / / \
+\ \ \ \ \ / \ \ / / \ / / /
+\ / \ \ \ / \ / \ / / / \ \
+\ \ \ / / / / \ \ \ \ / / \
+moves
+Z2;db,1;fc,1;fb,2;dc,2;cc,2;cb,1;ca,1;bb,1;da,1;bc,1;
+ab,1;aa,1;ac,2;ba,2;eb,2;ec,2;cd,2;dd,1;ea,1;ed,1;de,1;
+ee,2;be,2;ag,2;cf,2;cg,1;af,1;bg,1;ae,1;ad,1;bd,2;ce,2;
+eg,2;je,2;ld,2;kg,2;lg,1;kd,1;jd,1;le,1;ke,1;nf,1;md,1;
+me,2;mf,2;nd,2;lc,2;mc,1;nc,1;kc,2;lf,2;mg,2;ng,1;kf,2;
+mb,2;ma,1;nb,1;na,1;la,1;lb,2;nk,2;lj,2;lk,1;nj,1;nl,1;
+kk,1;kl,2;km,1;ll,1;lm,1;ln,1;kn,2;jn,2;jm,1;jl,1;in,2;
+hn,2;im,2;hm,1;li,2;ni,1;gk,1;hk,2;gm,2;bl,2;bm,1;bk,1;
+dj,1;dk,2;bj,2;bi,2;aj,2;ai,1;ah,1;bh,1;ak,1;al,2;am,2;
+cl,2;ck,1;cj,1;ci,1;ch,1;di,1;dh,1;dg,1;eh,1;dl,2;ek,2;
+ej,1;dn,1;cn,2;bn,2;an,2;en,1;fn,1;gn,1;fm,1;fl,1;gl,2;
+el,2;hl,2;ef,2;df,1;fg,1;ff,2;gh,2;fh,1;gg,1;gf,1;hg,1;
+hi,1;hf,2;hh,2;gi,2;gj,2;hj,1;ei,2;fi,2;fj,2;fk,2;fe,2;
+ge,1;gd,1;fd,2;gc,1;il,1;jj,1;ij,2;ik,2;jk,2;kj,1;ki,1;
+ji,2;jg,2;ii,2;ig,2;if,2;ih,2;jh,2;kh,2;jf,2;ie,2;id,2;
+he,2;hd,1;hc,1;ic,1;hb,1;ib,2;gb,1;ga,1;fa,2;ia,2;jb,2;
+ja,1;jc,1;kb,2;ka,2;ha,2;bf,1;ne,2;em,2;dm,2;cm,2;mi,1;
+mh,1;mj,1;mk,1;ml,1;mn,1;nn,2;mm,2;nm,2;nh,2;lh,1;

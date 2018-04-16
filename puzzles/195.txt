@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-14-370102-0-412
+unit 36
+size 14
+problem
+- - - - - 1 - - - 1 - - - 1 -
+- 2 2 2 2 - 3 - 1 - 1 - 1 - -
+1 - 3 1 2 1 - 1 - 2 - 3 - 2 -
+1 - 2 - - - - - - - - 1 1 - -
+- 2 - 2 2 2 - 3 1 - - - 2 3 -
+1 - 1 1 3 - 3 2 1 - 1 - 1 - -
+- 2 2 3 - - - 3 2 - 2 1 - 1 -
+- 1 - - 1 - 3 - 2 - - 2 3 - 1
+- - - 2 - 3 - 3 - - 1 - 1 - 1
+- 2 - 3 - 1 - - - - - 1 1 - -
+1 2 - - 3 - 3 3 - - - - - - 1
+1 - - 2 1 - 2 - 3 3 - - 3 2 -
+- 1 - - 2 3 - - 3 - 2 - - 1 1
+1 - 2 2 3 1 2 2 - 1 - 1 - 1 -
+- 1 - - - - - - - - - - 1 - -
+solution
+\ / / \ \ \ / / / / \ / \ \
+\ / / \ \ \ \ \ / \ \ / / /
+\ / \ \ \ / \ / / \ / / \ \
+\ / \ \ \ \ \ / \ \ \ / / /
+\ / \ \ \ \ / / / / \ / / \
+\ \ \ / \ \ \ \ / / / \ / \
+/ / / / \ \ / \ / / / / / /
+\ / \ \ \ \ \ \ / / / / \ /
+/ / / / / \ / \ \ \ / \ \ /
+/ / / \ \ \ / / / \ \ \ / \
+/ / / / \ / / \ / / / \ / \
+/ \ \ \ \ / / / / \ / / / \
+/ / / / / / \ / \ \ / \ \ \
+/ / / / \ / \ / \ / \ \ \ /
+moves
+Z2;cb,1;fc,1;fb,2;cc,2;gb,2;fa,2;ea,2;gc,2;hb,2;hc,1;
+ga,1;kc,1;md,1;mc,2;kd,2;lf,2;mf,1;lc,1;ld,1;lb,1;kb,2;
+jb,2;ka,2;ja,1;la,1;mb,1;ma,2;na,2;nc,2;nb,1;nd,1;me,1;
+ne,2;le,1;ia,1;ib,1;ha,1;ic,1;jc,2;kf,1;hd,1;if,1;id,2;
+hf,2;hg,2;ig,1;ih,1;hh,2;gh,2;hi,2;gi,1;gg,1;gf,2;gd,2;
+jd,2;mh,2;lj,2;kj,2;ki,1;mj,1;lh,1;mi,2;li,2;kh,1;jh,1;
+ji,2;mm,2;ml,1;nn,1;nl,2;nm,2;mn,2;ln,2;lm,2;kn,2;km,1;
+mk,1;nk,2;nj,2;lk,2;ll,1;jk,1;hl,1;ik,1;hm,1;im,2;hk,2;
+jl,2;il,1;jm,2;in,2;jn,1;kl,1;kk,1;hj,1;fk,1;fj,2;fi,2;
+ej,2;ei,1;gj,1;gk,1;gl,1;fl,1;ij,1;fh,2;fg,2;eh,2;eg,2;
+dh,2;dg,1;dk,1;ek,2;dj,2;en,2;dn,1;ff,2;fe,2;ge,1;he,1;
+ie,1;ch,2;cj,1;ck,1;df,1;cg,1;cf,2;ce,2;bf,2;be,1;bg,1;
+bh,1;ag,1;ah,2;af,2;ae,2;ad,2;bd,1;ac,2;ab,2;de,2;fd,2;
+dd,2;cd,2;bc,1;bb,1;ba,1;aa,2;ca,1;eb,2;ec,2;em,1;dm,1;
+hn,1;gn,2;gm,2;jj,2;ii,2;jg,1;jf,1;kg,1;lg,1;mg,1;je,1;
+ke,2;nf,2;ng,1;nh,1;ni,1;db,2;dc,2;da,2;ed,2;ee,2;ef,2;
+di,1;ci,1;bi,1;ai,1;al,1;ak,1;aj,1;bj,1;bk,1;am,1;an,1;
+bm,1;bl,2;bn,1;cl,2;dl,2;el,2;fm,1;fn,1;cm,1;cn,1;

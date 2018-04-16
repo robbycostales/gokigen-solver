@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-75-044877-1-695
+unit 36
+size 14
+problem
+- - 0 1 - - - - 2 - - 1 - 1 -
+- 2 3 - 2 2 2 - - 3 - 2 3 - 1
+1 - - 2 - - - 1 - 3 - - 1 - 0
+- 3 1 - 3 1 - - 1 2 - - 2 3 -
+1 2 - 3 2 - - 3 3 - - 2 - - -
+2 2 - 2 2 - 2 - 2 2 3 - - 2 2
+- - - 2 - 2 - - 3 - 2 3 2 2 1
+0 2 3 - 2 - 3 - 1 2 2 2 - 2 -
+- - 1 1 2 3 - - - - 2 2 3 - -
+- 1 2 2 - - - - 3 1 - 3 - 2 -
+- - - 2 - 1 4 - 1 3 - 1 1 2 -
+1 2 2 - - 1 - - - - - - - 2 0
+1 2 3 - - - 3 - - 2 3 - - 1 -
+2 - - 3 3 1 - 2 2 3 2 - - - -
+- - 1 - 1 - - 2 1 - - - 2 - 0
+solution
+\ \ / / / / / / \ / / / / /
+\ \ \ \ \ \ \ \ \ \ / / \ /
+\ / \ \ / \ \ / / \ / \ \ \
+/ / / / / / \ \ / \ / / / \
+/ / / \ \ / / \ \ \ / / \ \
+\ \ / \ \ \ \ \ \ \ \ / / /
+\ \ / \ \ \ \ / \ / / / / /
+/ / / \ \ / \ \ \ / / / / /
+/ \ / / / / / / / / / / \ \
+\ \ / / / \ / / \ / / \ \ \
+/ / / / / / \ \ \ \ \ \ / /
+/ / / \ \ / / / \ \ / / \ \
+/ / \ \ / / \ / / / / \ \ /
+\ / / \ \ / \ / / \ \ \ / /
+moves
+Z2;ba,2;ca,1;da,1;ha,1;ia,2;nb,1;nc,2;na,1;ma,1;nd,2;
+mc,2;md,1;lc,2;mb,2;lb,1;la,1;ka,1;kb,1;ne,2;nf,1;ng,1;
+me,2;mf,1;mg,1;nk,1;nl,2;ml,2;mk,1;mm,2;nm,1;nn,1;mn,1;
+ln,2;lm,2;hn,1;gn,2;gm,2;hm,1;in,1;im,1;jm,1;jn,2;kn,2;
+km,1;kl,1;jl,2;il,2;dm,2;em,1;cm,2;dn,2;cn,1;bn,1;en,2;
+an,2;am,1;al,1;ak,1;bm,1;bl,1;bk,1;cl,1;ck,1;ah,1;ag,2;
+bg,2;bh,1;af,2;ae,1;be,1;bf,2;ad,1;bd,1;bc,1;ac,2;ab,2;
+aa,2;bb,2;cb,2;cd,1;cc,2;dd,1;ce,1;de,2;df,2;cf,1;cg,1;
+dg,2;ch,1;ci,1;bi,2;bj,2;cj,1;aj,2;ai,1;di,1;dh,2;eh,2;
+ei,1;dj,1;dk,1;eg,2;ed,1;ee,2;ef,2;fd,1;ec,1;fc,2;dc,2;
+db,2;eb,2;ea,1;fa,1;fb,2;gb,2;ga,1;hb,2;gc,2;hc,1;ib,2;
+jb,2;ja,1;jc,2;ic,1;id,1;hd,2;jd,2;gd,2;he,2;ge,1;fe,1;
+ie,2;je,2;ig,2;hg,1;mj,2;kk,2;kj,1;nj,2;gk,2;fj,2;gj,1;
+fk,1;fl,1;ek,1;el,2;dl,2;ej,1;gl,1;fm,1;fn,1;hl,1;jk,2;
+ff,2;gf,2;fg,2;hf,2;if,2;jf,2;kf,2;ke,1;ld,1;le,1;kd,1;
+kc,1;lf,1;lg,1;kg,1;jg,1;jh,1;ih,2;hh,2;kh,1;lh,1;mh,1;
+li,1;mi,2;nh,1;ni,2;ki,1;lj,2;lk,2;ll,1;ji,1;jj,1;ii,1;
+ij,2;ik,2;hk,2;hj,1;hi,1;gg,2;gh,2;fh,1;fi,1;gi,1;

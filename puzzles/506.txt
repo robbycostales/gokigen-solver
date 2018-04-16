@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-96-147359-1-632
+unit 30
+size 14
+problem
+- - - - 2 0 1 - 1 - - - - - -
+- - 3 - 2 - 1 - - 3 1 1 - 1 -
+- 3 3 1 1 - 2 - 2 - 3 - 3 - 1
+- - - - 2 - - - 2 - 1 - - - -
+- 3 - 3 - - 3 - - 4 - 3 - 1 -
+2 - 1 - - - - 4 - - 2 - 4 - -
+1 3 1 2 - - 2 - 4 - - - - - 2
+- 2 - 2 3 - - - - 1 3 - - 1 -
+- - 3 2 2 - 4 - - 3 2 - - 3 0
+2 - 3 - - - - 4 - 2 - 2 - - -
+- 2 - - 2 - 1 - 2 - - 2 3 - 2
+1 3 - - - 2 3 - 4 - 2 - - 4 -
+1 - - 2 2 - 3 - 2 2 - 3 - - -
+- - 2 2 1 4 - - - 2 3 - - 1 -
+1 1 - - - - - - - - - - 2 - -
+solution
+\ \ / / \ / / \ \ / \ \ / \
+\ / / / \ \ / / \ \ \ / / /
+/ / \ / / \ / / \ / \ / \ /
+\ / \ / / \ / / \ / / / / \
+/ / \ \ / \ \ / / \ / \ / /
+\ / / \ / \ / \ / \ / / \ \
+\ \ / \ / \ / / \ \ \ / / /
+\ \ / \ \ \ / / \ / \ / \ /
+/ / / \ \ / \ / / / \ \ \ \
+\ / \ \ \ / / \ / / \ \ \ \
+\ / / \ \ \ / \ / / / / \ /
+\ \ / / / / / / \ \ \ / / \
+\ / \ \ \ / \ / \ \ \ \ / \
+/ / \ \ / \ \ / / / \ \ / /
+moves
+Z2;ab,2;cc,2;cb,1;ac,1;ca,1;bb,1;ba,2;aa,2;bc,1;da,1;
+ea,2;fa,1;ga,1;gb,1;fb,2;fc,2;gc,1;db,1;eb,2;dc,1;ec,1;
+ja,1;lb,1;la,2;jb,2;mb,1;lc,1;mc,2;na,2;nb,1;ma,1;nc,1;
+me,1;lf,1;le,2;mf,2;nd,2;ne,1;md,1;ld,1;ng,1;nf,2;mg,1;
+nh,1;mh,2;ni,2;mi,2;lg,1;nj,2;nk,1;ml,1;mk,2;nl,2;mj,2;
+lj,2;lk,1;kk,1;kj,2;ll,1;li,2;ki,2;ln,2;mn,1;nn,1;mm,1;
+nm,2;ik,1;hl,1;hk,2;il,2;im,2;hm,1;ij,1;hj,2;gi,2;hi,1;
+gj,1;gk,1;fj,1;fk,2;ii,1;gl,1;fl,1;fm,1;gm,2;fn,2;em,2;
+en,1;gn,2;el,1;ek,2;dm,2;dl,1;cl,1;cm,2;dn,2;cn,2;bk,1;
+bl,2;ck,1;an,1;bn,1;bm,1;ai,1;aj,2;bj,1;ch,1;cj,2;bh,2;
+bi,1;ci,1;bf,1;bg,2;ce,2;cf,1;be,1;ae,1;bd,1;ad,2;af,2;
+ag,2;ah,2;cg,1;eg,1;eh,2;fh,2;gh,1;fi,1;ei,2;hh,1;hg,1;
+if,1;ig,2;hf,2;jg,2;ih,2;jh,1;ji,1;jj,1;jk,1;jl,2;kl,2;
+jm,2;km,2;lm,2;kn,2;jn,1;in,1;hn,1;kh,2;kg,2;je,2;id,2;
+jd,1;ie,1;jc,1;kd,1;kc,2;kb,2;ka,2;ke,1;kf,1;jf,2;lh,1;
+he,1;gf,1;ge,2;gg,1;fg,2;ff,2;fe,2;fd,2;gd,1;hd,1;hc,1;
+ic,2;ib,2;hb,1;ia,2;ha,2;cd,2;de,2;dd,1;ed,1;ee,1;dk,2;
+df,2;dg,2;dh,2;di,2;dj,2;ej,2;ef,1;ak,2;al,2;am,2;

@@ -1,0 +1,59 @@
+
+
+begin
+author Otto Janko
+solver Rainer
+source https://www.janko.at/Raetsel/
+info 9037-40-740651-5-587
+unit 36
+size 14
+problem
+- - 1 - - - - - 1 - - - - 1 -
+1 2 3 2 - - 1 3 3 - 1 3 2 - 1
+- 2 2 2 - 2 - 2 - - 1 3 - - 1
+1 2 - - 2 - 1 - - 2 2 - - - 1
+- 1 - - - - 2 - 2 - 3 1 2 2 -
+- - - - 1 1 - - 2 2 - 2 2 - 1
+- 2 - - - 1 1 3 - 1 1 3 - - -
+- 2 1 - 2 - 2 - - - - - - 2 -
+- 1 - - 1 3 1 3 2 1 2 2 - 1 -
+- 1 1 3 - 2 - 1 1 - 3 - 3 - 1
+1 3 2 - - - - 3 - 1 - 3 - 3 1
+- 2 - - 1 - - - 3 3 - - 3 - 1
+1 3 - - 2 1 2 2 - - 2 2 - 2 -
+1 - - 1 1 2 3 2 2 - 3 - - - -
+- - 1 - - - - 1 1 1 - - - 0 -
+solution
+/ / / / / / \ / / / \ / \ \
+/ / \ \ \ / / / \ / / / \ \
+/ / \ \ \ / / / / \ / \ \ \
+/ / \ / / \ / \ / \ / \ \ \
+\ / / / / \ / \ / / / / / /
+/ \ \ \ / / \ \ / / \ \ \ /
+/ \ \ / \ / / \ \ / / \ / \
+/ \ / / \ \ \ \ \ \ \ \ / \
+/ / \ / / \ / \ \ / / / / /
+\ / / / / \ \ \ / / \ / \ /
+\ \ \ / \ \ / \ \ / / / / /
+/ / / / / \ / / \ \ / / \ /
+/ \ / \ \ \ / / / \ / / \ /
+/ \ \ \ / / / / / / / / / \
+moves
+Z2;bb,1;cb,2;cc,2;bc,1;bd,1;be,1;ad,1;ae,2;ac,1;ab,1;
+aa,1;ba,1;ca,1;da,1;db,2;dc,2;ib,2;hb,1;ia,1;gb,1;ga,2;
+ha,1;ja,1;kc,1;la,1;lc,2;ka,2;jc,2;jd,2;kd,1;kg,1;if,1;
+kf,2;ig,2;fe,2;df,2;eg,2;gf,2;gg,1;ef,1;de,1;ff,1;ee,1;
+fg,1;fi,2;gi,1;ah,1;bj,1;cj,1;ci,2;aj,2;bh,2;bi,1;ai,1;
+ag,1;bg,2;bf,2;af,1;ch,1;cg,2;am,1;bm,2;al,1;an,1;ak,2;
+bk,2;bl,1;ck,2;cn,2;em,2;dn,2;ek,2;dk,1;en,1;cm,1;dm,2;
+cl,1;fn,1;fm,2;fl,2;el,1;dl,1;hl,1;jk,1;jl,2;hk,2;gl,1;
+gm,1;gn,1;hn,1;in,1;jn,1;hm,1;im,1;ij,1;ii,2;gj,2;nn,2;
+mn,1;mk,1;mj,2;kj,2;kk,1;dj,1;di,1;dh,1;ei,1;eh,2;dg,1;
+fh,2;gh,2;fj,2;ej,1;fk,2;gk,1;hj,2;hi,2;hh,2;ih,2;jh,2;
+ji,1;ki,1;kh,2;lh,2;li,1;jj,1;ik,2;il,2;lj,1;mi,1;lk,1;
+ll,1;ml,2;kl,1;km,1;jm,2;kn,1;lm,1;ni,1;mh,1;nh,2;nj,1;
+nk,1;nl,1;nm,1;mm,2;ln,1;mg,1;ng,2;hg,2;hf,2;he,2;ie,1;
+id,1;hd,2;ic,1;hc,1;gc,1;gd,1;fc,1;fd,2;ge,1;cd,2;cf,2;
+ce,1;dd,1;ed,1;ec,2;eb,2;fb,1;fa,1;ea,1;je,1;ke,1;jf,1;
+jg,1;le,1;lf,2;mf,2;me,1;ld,2;md,2;nd,2;ne,1;nf,1;nc,2;
+nb,2;na,2;ma,2;mb,2;lb,1;kb,1;jb,1;lg,2;mc,2;bn,2;
