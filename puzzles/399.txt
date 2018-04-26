@@ -71,3 +71,4 @@ kb,2;ka,1;ia,2;lb,2;lc,2;ld,2;md,1;kc,2;le,1;me,1;ne,1;
 hb,2;ha,2;gb,2;gc,1;ga,2;fb,2;fa,1;ec,1;eb,2;fc,2;fd,2;
 gd,1;ed,2;fe,1;db,2;dc,2;cb,2;cc,1;bb,2;ba,2;ca,2;cd,1;
 dd,2;de,2;ce,1;be,1;cf,1;ae,1;ee,1;
+moves

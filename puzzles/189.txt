@@ -148,3 +148,4 @@ gh,2;hh,2;hg,1;hf,1;he,1;hd,1;gd,2;fd,2;hc,1;id,2;ie,1;
 je,1;jd,2;jf,2;ih,2;ed,2;ec,1;eb,1;ke,1;le,1;me,1;kd,2;
 ld,1;md,1;nd,1;ij,2;ii,1;hi,2;fh,1;ek,1;el,1;dl,1;cl,1;
 bl,1;bm,2;cm,2;dm,2;am,1;
+moves

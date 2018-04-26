@@ -57,3 +57,4 @@ cl,1;cm,2;cn,1;ef,1;fe,1;ff,2;ee,2;de,2;dd,1;fc,1;ec,2;
 gd,2;ge,1;fd,1;gc,2;gf,2;hf,2;he,1;ie,1;hd,1;id,2;if,1;
 hg,1;gg,2;gh,2;ih,2;ig,1;jh,2;ji,2;ii,2;jj,2;fb,1;me,1;
 ic,1;hc,1;gb,2;ed,1;dc,2;cc,2;bc,2;ac,2;mh,1;km,2;
+moves

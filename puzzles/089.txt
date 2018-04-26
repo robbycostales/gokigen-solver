@@ -148,3 +148,4 @@ vl,1;ho,1;ht,2;jx,2;jk,1;jj,1;ik,1;hk,1;hl,2;il,1;kj,1;
 ki,1;kh,1;jg,2;vh,2;wh,2;xh,2;yh,2;zh,2;2607,2;2707,2;
 2608,2;zi,2;2706,2;ug,1;wl,1;xl,1;yl,1;tg,1;xk,1;yk,2;
 2711,2;
+moves

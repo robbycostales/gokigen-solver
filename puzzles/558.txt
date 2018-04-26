@@ -57,3 +57,4 @@ na,2;ed,1;de,2;ee,2;jl,1;il,1;im,2;hm,2;gm,2;ck,2;dl,2;
 dk,1;cl,1;cm,1;dm,1;cn,1;dn,2;en,2;em,2;bk,2;kj,1;ik,1;
 ij,2;hj,2;hk,2;gj,2;gk,1;hl,2;gl,2;fj,2;fi,1;ej,2;fk,2;
 ek,1;el,1;fl,2;fm,2;jk,2;jj,2;ki,1;jg,2;lm,2;ei,2;
+moves

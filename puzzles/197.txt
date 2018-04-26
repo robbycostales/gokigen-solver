@@ -72,3 +72,4 @@ ik,2;ij,2;jj,2;ii,2;ih,2;hh,1;gh,1;fh,1;eg,2;ef,2;ee,2;
 de,1;ed,2;fe,2;dd,2;dc,2;cc,1;bc,1;ji,2;mi,1;mh,1;nh,1;
 oh,1;nk,1;ml,2;mm,2;nf,2;mg,1;ie,2;if,2;ig,2;je,1;ke,2;
 le,2;me,2;lb,2;la,2;
+moves

@@ -148,3 +148,4 @@ pe,1;pf,1;pg,1;ph,1;og,1;oh,2;qh,2;qi,2;ri,1;pi,2;qj,2;
 qk,2;si,2;rl,2;sl,1;nh,2;ng,1;of,1;le,1;md,1;mc,1;mb,1;
 lb,2;ob,1;oa,1;pa,2;na,1;nc,1;nb,2;ie,2;hb,2;gb,2;fb,2;
 fc,1;eb,2;ea,1;fa,1;
+moves

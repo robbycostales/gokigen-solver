@@ -71,3 +71,4 @@ tm,1;sk,1;og,2;ng,2;mg,2;gg,2;fh,1;eh,1;fi,1;ei,2;fj,1;
 fk,1;di,2;dh,1;gf,2;ff,2;ef,2;df,2;de,1;cf,2;cg,2;ib,2;
 ia,2;ja,1;ka,1;hb,2;gb,2;fb,2;eb,2;dc,1;dd,1;dg,1;ch,1;
 ea,2;da,2;ca,2;ba,2;bb,2;ad,1;ha,2;
+moves

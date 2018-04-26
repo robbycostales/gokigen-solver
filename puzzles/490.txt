@@ -71,3 +71,4 @@ ne,2;oe,2;nf,2;of,1;pf,1;qf,1;rf,1;qg,1;rg,2;pg,1;ic,2;
 id,2;he,1;ge,1;hf,1;if,2;jf,2;kf,2;lf,2;kg,2;gf,1;fb,1;
 fa,1;fc,1;sg,2;si,1;sf,2;og,2;oh,2;ph,1;ng,2;mf,1;re,1;
 rd,1;rc,1;rb,1;ra,1;sh,1;rh,1;qh,1;
+moves

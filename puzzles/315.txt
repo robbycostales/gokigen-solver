@@ -57,3 +57,4 @@ ni,2;ng,2;nh,1;mf,1;lg,1;mg,2;lf,2;nf,2;ne,2;me,1;kg,1;
 kf,2;ke,2;le,1;jf,1;jg,1;kh,1;lh,2;mh,2;li,2;mi,1;mj,1;
 ki,1;lj,2;nc,2;nb,1;ma,1;la,2;na,2;lb,2;mb,1;mc,1;lc,2;
 ld,2;md,1;nd,1;kd,2;kc,2;kb,2;jc,2;jb,1;ka,2;if,2;
+moves

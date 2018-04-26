@@ -148,3 +148,4 @@ js,1;ht,1;hs,2;hu,1;hv,1;gt,1;kr,1;hw,1;nn,2;no,1;np,1;
 mp,1;lp,1;fv,2;ev,2;gw,2;gv,2;gu,2;gx,1;kq,2;lq,2;mq,2;
 nq,2;oq,2;or,1;nr,2;jk,1;jl,1;jm,1;kf,2;jj,2;ji,2;jh,2;
 jg,2;kg,1;lg,1;jf,2;
+moves

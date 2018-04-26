@@ -56,3 +56,4 @@ nb,2;ob,2;pb,2;pa,1;qb,2;rb,2;mg,1;ji,2;kk,2;gj,1;hj,1;
 ij,1;jj,2;kj,2;lj,2;lk,1;ll,1;kl,2;ml,1;mk,1;nk,2;ok,2;
 pk,2;pl,1;ql,1;qk,2;rk,2;rl,1;rj,1;ri,1;pj,2;pi,2;mj,2;
 li,2;lh,2;lg,1;rh,2;qh,2;ph,2;qg,2;pg,1;
+moves

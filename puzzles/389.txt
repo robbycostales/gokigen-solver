@@ -71,3 +71,4 @@ an,1;am,2;ah,2;ag,1;af,1;bg,1;bh,2;bi,2;ai,1;aj,1;ak,1;
 al,1;bl,1;cl,1;bk,2;bj,2;ci,1;ch,1;cg,1;ec,1;fc,2;dd,2;
 dc,1;ce,1;cd,2;de,2;cc,2;cb,2;db,2;ca,2;ba,2;eb,2;fb,2;
 gb,2;be,1;ae,1;cf,1;bf,1;fh,2;gi,2;
+moves

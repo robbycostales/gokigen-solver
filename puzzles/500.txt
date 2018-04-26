@@ -72,3 +72,4 @@ ee,1;ed,2;de,1;ce,1;be,1;ae,1;ad,2;ac,2;ab,2;bb,2;li,2;
 bp,1;bq,1;ap,1;ao,1;an,1;aq,2;jm,2;jn,2;jo,2;fb,2;dc,2;
 cb,1;ca,1;da,2;ea,2;eb,1;ec,1;ba,1;aa,1;gb,2;hb,2;ib,2;
 ja,1;ka,1;la,1;ma,1;
+moves

@@ -148,3 +148,4 @@ qd,2;qc,2;pd,2;pc,1;qf,1;pf,1;pe,1;oe,2;od,2;oc,2;nc,2;
 pb,1;qb,1;rb,1;ra,2;sb,1;tb,2;mc,2;mb,1;lc,2;nd,1;md,1;
 ld,1;kd,1;jd,1;ke,1;ic,2;ne,2;kf,1;je,1;jf,1;jg,1;ig,2;
 dd,1;ih,2;3308,1;
+moves

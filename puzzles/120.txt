@@ -148,3 +148,4 @@ hn,2;in,2;jn,2;gm,1;gl,1;dm,2;dl,2;dk,2;dn,2;cm,1;cn,1;
 co,1;bm,2;am,2;an,2;ao,2;ap,2;bp,1;aq,2;ar,2;br,2;as,2;
 bq,2;cq,2;cp,1;dp,1;ep,1;fp,1;cr,2;dq,2;dr,2;at,2;au,2;
 av,2;aw,2;ax,2;bx,1;aj,2;eq,1;fq,1;
+moves

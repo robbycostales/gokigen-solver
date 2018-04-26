@@ -72,3 +72,4 @@ kc,2;ld,1;lc,1;md,1;me,2;ne,2;mf,2;nd,2;nc,2;mc,2;mg,2;
 lf,2;lg,1;nh,1;mh,2;kg,1;jh,1;kh,2;ji,1;ih,1;ii,1;hh,1;
 hi,2;jj,2;ij,1;ik,1;jk,2;hj,2;ho,2;oh,1;mj,1;mi,1;lh,2;
 oi,2;pi,2;pj,2;qj,1;
+moves

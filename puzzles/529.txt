@@ -71,3 +71,4 @@ em,2;fk,2;fl,1;ek,1;cl,2;fn,1;gn,1;gm,1;gl,1;fm,1;am,1;
 an,2;al,2;ak,1;ai,1;aj,2;bj,2;bi,1;bk,2;bl,2;ck,2;bm,2;
 bn,2;cj,2;dj,2;dk,1;ci,1;bg,2;di,2;ej,2;fj,2;gj,2;gk,1;
 kh,2;ki,2;kj,2;ch,2;bh,2;ah,2;ag,1;
+moves

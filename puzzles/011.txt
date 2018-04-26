@@ -27,3 +27,4 @@ Z2;ca,1;ba,1;aa,1;cb,1;bb,2;da,1;db,1;ae,2;af,1;ce,1;
 cf,2;df,2;cd,2;ed,1;ee,2;fe,2;ef,2;ff,1;de,2;dd,2;fd,2;
 bd,2;be,1;bf,1;ad,2;ac,2;bc,1;ab,2;cc,1;dc,1;ec,1;eb,1;
 ea,1;fb,1;fa,2;fc,1;
+moves

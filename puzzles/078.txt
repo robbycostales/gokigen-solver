@@ -79,3 +79,4 @@ kg,2;le,2;ke,1;kd,1;ld,2;lc,2;mc,2;md,1;nd,1;od,1;je,1;
 jd,2;jc,2;jb,2;lb,1;mb,2;ma,2;la,1;ka,1;na,2;jg,2;jf,1;
 if,1;ig,2;ie,1;hd,2;id,2;hc,2;he,1;gd,2;gc,2;hb,2;ha,2;
 ia,1;ja,1;ga,2;gb,2;fa,1;ea,1;jh,1;ji,1;jj,1;jk,1;jl,1;
+moves

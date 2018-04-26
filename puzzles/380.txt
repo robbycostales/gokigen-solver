@@ -79,3 +79,4 @@ ti,1;th,1;tg,1;tj,2;tk,2;uk,1;ul,1;tl,2;vk,1;ga,1;gb,1;
 fa,1;fb,2;gc,1;fc,1;fd,1;gd,1;ge,1;fe,1;ff,1;ee,1;ef,2;
 eg,2;hf,2;gf,1;ig,1;if,2;hg,2;ih,1;jg,2;kf,1;ke,1;gg,2;
 fg,1;ea,1;da,1;ii,1;ij,1;ik,1;hk,2;hl,2;il,1;im,1;gj,1;
+moves

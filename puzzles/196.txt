@@ -72,3 +72,4 @@ nj,1;oj,2;pk,1;pl,1;iq,1;jq,2;cl,2;bk,2;bl,1;al,1;bm,1;
 ak,1;am,2;bn,1;bo,1;cp,2;cq,2;bq,1;aq,1;ii,2;ji,1;ki,1;
 kh,1;li,1;lh,2;lg,2;mg,2;mh,2;oh,1;oi,1;nh,1;ni,2;ng,1;
 nf,1;ne,1;mj,1;mi,1;
+moves

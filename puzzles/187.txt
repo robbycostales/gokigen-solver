@@ -79,3 +79,4 @@ da,1;do,1;dn,1;jo,1;io,1;in,2;jp,2;gp,1;go,1;fo,2;eo,2;
 en,1;fn,2;gn,1;hn,2;ho,1;ri,2;si,2;ti,2;th,1;tg,1;uh,1;
 uf,2;vg,1;wg,1;wf,2;xf,2;vh,1;wh,2;ue,2;ud,2;td,1;tj,1;
 rl,1;rm,1;rn,1;qn,2;so,2;sp,2;pc,1;pd,1;oc,1;nc,1;pe,1;
+moves

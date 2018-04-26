@@ -41,3 +41,4 @@ ji,1;hh,1;ih,2;hg,2;gg,1;gh,1;gf,1;hf,2;he,2;if,2;ig,1;
 fg,2;jg,1;jh,2;jf,1;id,1;ie,2;hd,2;jc,2;jd,1;ic,1;jb,2;
 hc,2;gc,1;fc,1;je,1;fb,1;dd,1;ga,1;ha,2;fa,1;gb,1;hb,1;
 ib,1;ia,2;
+moves

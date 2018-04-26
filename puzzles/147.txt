@@ -56,3 +56,4 @@ ci,1;dj,1;di,2;el,2;ek,2;ej,1;dh,2;ch,1;cg,1;cf,1;fe,1;
 ff,2;gf,2;fg,2;gg,1;hg,1;ig,1;jg,1;kg,1;lg,1;lh,2;mh,2;
 mg,2;nh,2;mf,2;lf,1;me,2;oh,2;ph,1;ge,1;gd,1;fd,2;fc,2;
 gc,1;hd,1;hc,1;hb,1;mc,2;md,2;le,1;nd,2;
+moves

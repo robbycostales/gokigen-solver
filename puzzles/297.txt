@@ -71,3 +71,4 @@ vf,1;vg,1;wf,1;wg,2;xg,2;xf,1;ug,1;wd,1;we,2;xe,2;qe,1;
 qd,2;pd,2;pc,2;rc,1;rb,1;ra,1;sa,2;pb,2;oc,2;ob,1;nb,1;
 nc,2;md,1;me,1;ld,1;na,1;mb,1;lb,1;oa,1;kb,2;ka,1;tg,1;
 th,2;uh,1;vh,1;vi,2;wi,2;wh,1;xh,1;
+moves

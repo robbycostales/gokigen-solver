@@ -72,3 +72,4 @@ mb,2;na,1;nb,2;ob,2;oa,1;nh,2;ng,2;ni,2;oi,2;oj,2;nj,1;
 mj,1;lj,1;ki,2;lk,2;nf,2;ne,2;oe,1;nd,2;nc,2;mc,2;md,1;
 me,1;ld,1;le,2;lc,2;mf,1;jg,2;jf,2;ke,1;kd,1;kc,1;kb,1;
 lb,2;la,2;ka,1;mg,1;
+moves

@@ -56,3 +56,4 @@ ce,1;ee,2;ed,2;fe,2;fd,1;ff,2;fg,2;fh,2;gh,2;ei,1;di,1;
 dj,1;ej,2;ek,2;dk,1;dl,1;cl,2;el,1;fl,1;fk,2;bi,2;ci,1;
 ad,1;ac,2;ae,1;be,1;bd,2;bc,2;cc,2;cd,1;bb,1;cb,2;aa,2;
 ab,1;ba,1;dc,2;dd,1;ec,2;eb,2;db,2;ca,2;
+moves

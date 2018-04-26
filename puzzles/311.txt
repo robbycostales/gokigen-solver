@@ -37,3 +37,4 @@ ga,1;eb,2;da,1;db,1;cb,2;bb,2;df,2;cf,1;bg,1;af,1;bf,2;
 be,2;ae,2;bd,2;ad,1;bc,2;bh,1;ch,1;di,1;dh,1;ei,1;eh,2;
 fh,2;fi,1;eg,1;fg,2;dg,1;cg,1;gg,2;gh,1;gi,1;gj,1;fj,2;
 hg,1;ig,2;hh,1;hi,1;ih,2;ii,2;ij,1;hj,1;ji,2;jh,2;jg,2;
+moves

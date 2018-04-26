@@ -20,10 +20,11 @@ def splitPuzzles(fileName):
     for i in range(len(singulars)-1):
         newFile = open("puzzles/{}.txt".format(str(i+1).zfill(3)), "w+")
         newFile.write(singulars[i])
+        newFile.write("moves")
         newFile.close()
 
 
 
 
 if __name__ == "__main__":
-    splitPuzzles("Gokigen.txt")
+    splitPuzzles("og-text/Gokigen.txt")

@@ -72,3 +72,4 @@ ge,2;fe,2;fd,2;gd,1;hd,1;ad,1;ae,2;be,2;bd,1;bc,1;ac,2;
 cc,1;bb,1;ba,1;ca,2;da,2;db,1;aa,1;ab,1;dc,1;cd,1;dd,2;
 ed,2;ec,1;fc,1;gc,1;hc,1;ic,1;ce,1;bf,2;af,2;bg,2;ag,2;
 ah,2;ai,2;de,1;ee,2;
+moves

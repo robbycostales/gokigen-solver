@@ -72,3 +72,4 @@ dq,1;dp,2;fp,1;fq,1;eq,1;ep,1;do,2;dn,2;dm,2;cm,1;cl,1;
 dl,2;bm,2;am,2;bp,1;bq,1;bo,1;bn,1;ip,2;jp,2;kp,2;lp,2;
 mp,2;np,2;no,1;op,2;kq,2;jq,1;iq,1;lq,2;mq,2;nq,2;oq,2;
 pp,2;qp,2;pq,2;qq,2;
+moves

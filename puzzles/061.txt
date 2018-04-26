@@ -26,3 +26,4 @@ moves
 Z2;L0;bb,2;ab,2;bc,2;ac,1;ad,2;bd,2;cf,2;df,2;dc,2;
 cc,1;eb,1;ea,1;ec,2;ed,2;dd,1;cd,1;de,1;ee,2;ef,2;fe,1;
 fd,2;fc,2;ce,1;
+moves

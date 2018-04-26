@@ -79,3 +79,4 @@ ki,2;li,1;mi,1;nj,2;mk,1;jl,1;jm,1;hk,1;hj,1;hl,1;hm,1;
 gm,1;gn,1;fn,2;en,2;eo,1;ep,1;fp,1;gp,1;hp,1;ip,1;jp,1;
 io,1;jo,2;jn,2;in,1;hn,1;gl,2;kn,2;ln,2;mm,1;ml,1;nm,1;
 kp,1;lp,1;mp,1;lo,1;ko,1;np,1;op,1;pp,1;oo,1;on,1;om,1;
+moves

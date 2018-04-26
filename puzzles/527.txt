@@ -72,3 +72,4 @@ go,2;ho,2;fo,2;ep,1;dp,1;do,2;dn,2;co,2;cn,1;em,2;dm,2;
 dq,1;eq,2;fq,2;cq,1;cp,1;bq,1;aq,2;bp,2;bo,2;ap,2;al,2;
 am,1;jn,1;in,1;cl,2;dl,1;cm,2;bm,2;bn,1;an,1;ao,2;bl,2;
 el,2;fk,2;fj,1;hi,2;
+moves

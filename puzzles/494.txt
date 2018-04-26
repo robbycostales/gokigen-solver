@@ -49,3 +49,4 @@ dj,2;fi,2;fh,2;cj,2;ej,1;ei,1;eh,1;fk,2;gk,2;fl,2;gl,2;
 hj,1;hi,1;ii,1;ji,1;ij,1;jj,2;kj,2;ki,1;li,1;lj,2;ik,1;
 il,1;kk,1;lk,1;fg,1;eg,2;df,1;cf,1;bf,1;af,1;ae,2;ad,2;
 ac,2;ab,2;
+moves

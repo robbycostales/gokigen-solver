@@ -148,3 +148,4 @@ su,1;ru,1;qu,1;pu,1;it,2;kp,2;qn,1;pn,1;qj,1;rj,1;sj,1;
 tj,1;uj,1;rg,2;sg,2;tg,2;th,1;uh,1;ug,2;ui,2;vi,2;vj,1;
 wj,1;wi,2;wh,2;vh,2;ye,2;zd,1;2603,1;tf,1;uf,1;te,1;
 ud,2;ue,1;td,1;
+moves

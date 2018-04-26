@@ -33,3 +33,4 @@ ce,1;be,2;dc,1;dd,1;ed,2;ea,2;gc,2;ha,2;gd,2;hd,2;ge,2;
 he,1;hc,2;fd,2;ee,2;fe,1;ff,1;ef,2;gf,1;gg,1;fg,2;hg,1;
 hf,2;gh,1;fh,2;hh,1;eh,2;dh,2;bf,1;de,1;eg,2;dg,2;df,1;
 cf,1;cg,2;bg,2;ag,2;af,1;ae,1;ad,1;ah,2;bh,2;ch,2;
+moves

@@ -38,3 +38,4 @@ hi,1;hj,2;ii,2;id,2;ie,1;jd,1;jc,1;ic,2;ib,2;jb,1;fb,1;
 fa,2;ea,1;eb,1;db,2;cb,2;ec,2;fc,1;dc,2;ed,2;cc,2;ee,2;
 fe,2;fd,1;ef,1;ff,2;ge,2;gd,1;gc,1;hc,1;hd,2;he,2;hh,2;
 gi,1;ih,2;jh,2;ig,2;jg,1;if,2;ji,2;
+moves

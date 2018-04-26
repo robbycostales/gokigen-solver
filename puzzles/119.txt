@@ -148,3 +148,4 @@ jq,2;iq,2;hq,2;gq,2;gp,1;fp,1;ep,1;ri,2;cq,2;dq,1;dr,1;
 cr,2;hr,2;gr,1;hs,2;ir,2;gs,2;ht,2;gt,1;fr,1;fs,2;fq,1;
 eq,1;dp,2;do,2;co,2;cp,2;bp,1;bq,2;es,2;ft,2;et,1;eu,1;
 dt,1;ds,1;gu,1;fu,1;er,2;
+moves

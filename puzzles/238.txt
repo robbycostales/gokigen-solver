@@ -79,3 +79,4 @@ fe,1;ee,2;de,1;eh,2;fh,2;fi,1;ei,1;of,1;od,2;oc,2;ob,2;
 oa,2;na,1;ma,1;la,1;pa,2;qa,2;ra,2;sa,2;ta,2;sb,2;ua,2;
 sc,2;sd,1;rd,2;qe,1;pe,1;oe,1;nf,2;ne,1;bj,1;aj,1;fj,2;
 ej,2;ig,1;ih,1;jg,1;jh,1;ii,2;hi,2;ij,2;hj,2;gi,2;gj,2;
+moves

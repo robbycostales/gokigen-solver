@@ -71,3 +71,4 @@ ji,2;kk,2;kl,1;jl,1;il,1;hl,1;gl,1;gk,2;gm,1;fm,1;fl,2;
 fk,2;fj,1;en,2;fn,1;em,1;dm,1;dn,2;jh,2;li,1;mi,1;ni,1;
 nh,2;dl,1;cm,1;cl,2;el,1;cn,1;bm,1;bn,2;bl,2;am,1;an,1;
 ck,1;bk,2;cj,1;ci,1;di,2;ei,1;ql,2;
+moves

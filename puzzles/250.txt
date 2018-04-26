@@ -148,3 +148,4 @@ zd,1;uu,2;uv,2;dq,1;co,1;do,2;dn,2;cn,1;cm,1;dm,1;cl,1;
 dl,2;bl,1;bm,1;bn,1;bo,1;an,1;am,2;al,1;ao,1;ap,1;bp,1;
 cp,1;dp,1;ep,1;eo,2;en,2;fq,2;eq,1;er,1;dr,1;ds,2;fn,2;
 go,2;gp,2;gq,2;3506,1;
+moves

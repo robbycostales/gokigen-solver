@@ -71,3 +71,4 @@ qi,1;qj,2;qk,2;rh,2;ri,1;rd,1;sd,1;td,1;ud,1;uc,1;ub,1;
 ua,1;vl,1;ul,2;uk,2;vk,1;wk,1;wl,2;tl,2;tk,1;tj,1;uj,2;
 ui,2;ti,1;si,1;sh,2;rj,2;sj,1;xk,1;wj,2;xj,2;rg,2;vi,2;
 vj,2;sk,1;rk,2;nl,1;ln,1;kn,1;jn,1;
+moves

@@ -79,3 +79,4 @@ bl,1;bk,1;ck,2;ak,2;al,1;dh,2;di,1;ci,1;ch,2;cg,2;bh,2;
 bg,1;dg,1;ah,1;ag,2;af,2;bi,2;ai,1;cj,1;bj,2;aj,2;dk,2;
 dj,1;bf,2;gh,1;gi,1;gj,1;el,1;fm,2;gm,2;hm,2;fn,2;fo,2;
 go,1;ho,1;fg,2;eg,2;df,1;cf,1;hc,1;im,2;ep,1;dp,1;ap,1;
+moves

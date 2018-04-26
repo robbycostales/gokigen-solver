@@ -71,3 +71,4 @@ ni,2;oi,1;mi,2;mg,2;lj,1;lk,2;kk,2;kl,2;jk,2;ik,2;ij,1;
 ii,1;ih,1;hh,1;gh,1;hi,1;hj,1;gj,1;gi,1;ll,2;ml,1;li,2;
 kh,1;lh,1;jg,2;lm,2;om,2;mm,1;mn,1;ln,2;nn,1;on,2;nm,1;
 nl,1;sm,2;tm,2;um,2;vm,2;wn,1;sk,2;
+moves

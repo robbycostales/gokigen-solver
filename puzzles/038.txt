@@ -148,3 +148,4 @@ vt,1;wt,1;wu,2;xt,1;yt,1;zt,1;2619,1;2719,1;2819,1;
 pw,2;px,2;qx,1;rx,1;rw,2;qv,1;sx,1;ox,1;nx,1;mx,1;nw,1;
 mw,1;mv,2;lw,1;lx,1;pt,1;ot,1;qt,2;rt,2;qu,2;ru,2;su,2;
 tu,2;sv,2;sw,2;rv,2;uv,1;vv,1;vw,2;wv,1;vx,2;
+moves

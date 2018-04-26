@@ -148,3 +148,4 @@ ob,1;nb,2;na,2;oa,1;re,1;sh,1;og,2;mb,2;mc,1;lc,1;lb,2;
 kb,2;kc,1;ka,1;ja,1;jb,2;jc,2;ib,2;ia,2;ha,1;ga,1;fa,1;
 ea,1;da,1;gb,2;gc,2;kd,2;ld,2;md,2;ke,1;jd,2;kf,1;kg,2;
 mh,1;mg,1;mf,1;
+moves

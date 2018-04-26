@@ -56,3 +56,4 @@ ak,2;aj,1;ai,1;ah,1;bl,1;al,2;ae,1;ee,2;fg,2;gg,2;hg,2;
 hh,1;mc,1;mb,1;nc,1;oc,1;ob,2;oa,2;na,1;ma,1;pc,1;qc,1;
 rc,1;od,1;nd,1;md,1;ld,1;kd,1;ng,1;og,2;pg,2;of,2;oe,2;
 nf,2;ne,2;qg,2;rg,2;qh,2;rh,2;ri,1;rj,1;
+moves

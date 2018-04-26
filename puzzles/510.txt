@@ -72,3 +72,4 @@ ep,2;dq,1;cq,1;hm,2;fm,1;fn,2;en,2;em,2;im,2;hk,2;ik,1;
 ij,1;hj,2;hi,2;ii,1;hh,2;hg,2;gg,2;gh,2;fk,1;ek,1;ej,2;
 dk,1;dl,2;el,2;fl,2;gl,2;gk,1;gj,1;gi,1;hl,2;il,2;jl,2;
 gm,2;gn,2;go,1;gp,2;gq,2;
+moves

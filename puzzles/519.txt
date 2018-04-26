@@ -72,3 +72,4 @@ af,2;ae,1;ag,2;be,1;bd,1;ad,2;ac,2;ec,2;ki,2;ji,2;jj,1;
 ii,2;ij,2;hj,1;ik,2;il,2;gj,1;fj,1;fk,2;fl,2;el,1;em,1;
 fm,2;fn,2;en,1;eo,1;do,1;gm,2;hm,2;im,2;in,1;mo,1;lp,2;
 kp,2;io,1;jo,1;jn,1;
+moves

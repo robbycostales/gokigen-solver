@@ -32,3 +32,4 @@ gb,1;ga,2;ha,2;hb,1;hc,1;gc,2;ag,2;bf,2;af,1;ae,1;cf,2;
 dh,2;dg,2;eh,2;fh,2;gh,2;fg,2;eg,1;hg,1;hh,2;gg,2;ff,2;
 ef,1;fe,2;ee,1;fd,2;ed,1;gd,1;ge,2;he,2;gf,2;hf,1;hd,1;
 dd,1;de,1;df,1;ce,2;cd,1;bd,1;be,2;ad,1;
+moves

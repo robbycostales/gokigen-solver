@@ -45,3 +45,4 @@ ed,1;ge,1;gd,2;he,1;gf,1;ie,1;jg,1;ig,1;hg,1;je,1;jd,1;
 id,1;ic,1;hd,1;hc,2;gc,2;gb,2;ga,2;fb,2;fa,1;fc,2;jf,1;
 kf,2;ea,1;eb,2;db,2;da,1;ca,1;cc,1;cb,2;dc,2;ec,1;bc,1;
 bd,2;ad,2;ac,1;bb,1;ab,2;aa,2;ba,2;ff,2;gg,2;
+moves

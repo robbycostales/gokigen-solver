@@ -79,3 +79,4 @@ jm,2;ho,1;fp,1;do,1;dp,2;ep,2;gp,2;hp,2;eo,2;fo,2;go,2;
 en,2;dn,1;co,1;cp,2;bp,2;ao,2;bo,2;ap,1;cn,1;bn,2;al,2;
 am,1;an,2;bm,2;bl,2;cl,2;cm,1;dm,1;dl,2;el,2;em,1;fm,1;
 fl,2;fn,2;gl,2;hl,2;il,2;km,2;kl,2;kk,2;jl,2;qg,1;rf,1;
+moves

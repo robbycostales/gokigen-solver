@@ -79,3 +79,4 @@ qh,1;qg,1;qf,1;rf,2;pg,2;pf,1;pe,2;rm,1;sm,2;tk,2;uk,2;
 rn,1;sn,2;so,2;sp,2;ro,1;qo,1;qn,2;pp,2;qp,1;po,1;rp,1;
 pn,2;on,2;om,1;ol,1;sd,2;se,1;ja,2;io,2;ho,1;go,1;fo,1;
 fp,1;gp,1;hp,1;ip,1;fn,1;en,2;gn,1;gm,2;hn,1;in,1;jn,1;
+moves

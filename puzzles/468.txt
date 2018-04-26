@@ -72,3 +72,4 @@ il,1;hl,1;gl,1;hn,2;in,2;gn,2;fn,2;fm,2;en,2;dn,2;fl,2;
 dm,1;dl,1;ek,2;ej,2;fj,2;fi,1;gi,1;gj,2;fk,1;cm,1;do,2;
 cn,1;co,1;bn,1;bo,2;ao,2;an,1;am,1;bm,1;cp,1;dp,2;cq,1;
 aq,1;bq,2;bp,1;ap,1;
+moves

@@ -72,3 +72,4 @@ dj,2;ei,2;eh,2;dk,2;ek,1;el,1;fl,2;gl,2;em,1;hk,2;kj,1;
 lj,1;mj,1;mi,1;mh,1;mg,1;me,1;le,2;ke,2;lf,2;mf,2;kd,2;
 kc,2;kb,2;lb,1;jb,2;la,1;ma,1;nh,1;ng,1;oh,1;nf,1;ne,1;
 od,2;pc,1;mb,1;na,1;
+moves

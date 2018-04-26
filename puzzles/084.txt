@@ -45,3 +45,4 @@ ma,1;le,2;ke,2;je,2;jf,1;jg,1;di,1;ei,2;ej,2;fi,2;fj,1;
 gj,1;gi,2;hj,1;hi,1;hh,1;gh,2;fh,2;ci,1;cj,1;dj,1;hg,1;
 hf,1;if,1;he,1;ie,2;id,2;hd,1;hc,1;ig,1;ih,1;jd,2;ic,2;
 jc,1;kb,2;ib,2;hb,1;ha,1;ia,2;ja,2;ka,2;la,2;
+moves

@@ -41,3 +41,4 @@ bh,1;ch,1;ji,2;jj,2;dg,2;ff,2;dd,2;ed,2;dc,1;cc,1;cd,2;
 ce,2;de,1;bc,1;ad,1;ac,2;ab,1;aa,1;ee,1;hb,1;gb,1;ha,1;
 ia,1;ja,1;gc,1;bd,1;be,1;bf,1;cf,2;cg,2;bg,1;df,2;ef,2;
 ae,1;af,2;
+moves

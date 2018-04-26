@@ -71,3 +71,4 @@ ma,1;na,2;ob,2;oc,1;lc,1;lb,1;kb,1;jb,1;ib,1;mk,2;nk,2;
 ok,2;oj,1;pk,2;ol,2;pl,1;pm,1;om,1;pn,1;qn,1;on,2;rn,1;
 sn,1;nl,2;nm,1;nn,2;pj,2;oi,1;oh,1;og,1;pi,1;qg,2;qf,2;
 qe,2;rd,1;sd,1;pf,2;ne,1;oe,1;pe,1;
+moves

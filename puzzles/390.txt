@@ -71,3 +71,4 @@ li,2;lj,2;lk,2;ll,2;lm,2;nf,2;of,2;ne,2;nd,2;nc,2;mc,1;
 ld,2;oc,1;ob,1;pe,1;pf,2;qf,2;qg,1;qh,1;pd,1;qd,2;rd,2;
 se,1;sf,1;sg,1;sh,1;si,1;th,1;uh,1;vh,1;wh,1;xh,1;xi,2;
 ri,1;qi,1;pc,1;wg,2;wf,2;we,2;ve,1;
+moves

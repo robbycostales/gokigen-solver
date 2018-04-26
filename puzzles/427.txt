@@ -71,3 +71,4 @@ hh,2;pc,1;qc,1;rc,1;rd,1;re,1;se,1;sd,1;sc,1;te,1;tf,2;
 ue,1;ud,1;vd,2;vc,2;wc,2;xc,2;xd,2;wd,2;td,2;tg,2;sb,1;
 sa,1;pb,2;dg,2;df,2;cf,1;de,2;ce,2;cd,1;bf,1;be,2;bd,2;
 ad,1;ac,1;bc,2;cc,2;bb,2;ba,2;ab,1;
+moves

@@ -56,3 +56,4 @@ ag,1;af,1;bf,2;cf,2;be,1;bd,1;bc,1;bb,1;ac,1;ab,2;df,2;
 ef,1;nj,2;pk,2;pj,1;mh,1;mg,1;ng,2;og,2;pg,2;qg,2;qf,1;
 rf,1;rg,2;re,2;rh,2;qh,1;qi,1;pi,2;oi,2;nh,2;ni,2;mj,1;
 lj,1;kj,1;ji,2;oj,2;ok,2;ri,2;rj,2;qj,2;
+moves

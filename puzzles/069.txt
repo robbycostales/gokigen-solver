@@ -56,3 +56,4 @@ aa,2;ge,1;hb,2;ib,2;jb,2;kb,2;lb,2;mb,2;mc,1;na,1;ma,2;
 oa,1;pa,1;qa,1;kg,1;me,1;mf,1;le,1;lf,2;kf,2;ke,1;lg,1;
 mg,1;nf,2;of,2;md,2;nd,2;od,2;pc,1;je,2;if,1;ig,1;pf,1;
 qf,1;rf,1;rg,2;rk,2;ll,1;cf,1;bg,2;ag,2;
+moves

@@ -71,3 +71,4 @@ de,1;ce,1;fd,1;ed,2;ec,2;fc,1;fb,1;fa,1;ea,2;db,1;gd,1;
 gc,1;gb,1;ga,1;ha,2;ia,2;hc,2;hd,2;id,2;he,2;ie,1;je,1;
 jd,2;hl,2;hm,2;im,2;hn,2;in,1;mi,2;li,2;ki,2;wh,1;xh,1;
 xi,1;wi,1;vi,1;ui,1;ti,1;th,2;si,1;
+moves

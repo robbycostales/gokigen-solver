@@ -72,3 +72,4 @@ an,2;bm,2;cm,2;dm,2;bn,2;em,2;hi,1;hh,1;gh,2;gg,2;il,2;
 lg,2;hd,2;fd,1;id,2;cc,2;dc,1;ec,1;eb,2;ea,2;fc,1;bb,1;
 bc,2;cb,2;ac,2;ab,1;aa,1;ba,1;ca,2;cd,2;dd,2;ge,1;gf,1;
 gd,1;gc,1;ed,1;fg,1;
+moves

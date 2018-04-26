@@ -49,3 +49,4 @@ fe,2;ee,1;de,1;kf,1;kg,1;kh,1;jf,1;if,1;hf,1;gf,1;ff,1;
 ef,1;df,1;jg,1;jh,1;ji,1;ii,1;ih,1;ig,2;dd,1;dc,1;db,1;
 cc,1;cb,2;cd,1;ca,2;bb,2;ab,2;aa,2;ba,2;eb,2;ce,1;be,1;
 ae,1;cf,2;
+moves

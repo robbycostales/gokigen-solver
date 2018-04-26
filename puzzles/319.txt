@@ -125,3 +125,4 @@ ee,1;ed,1;hq,2;iq,2;jq,2;ir,2;kq,2;kr,1;ks,1;js,2;jt,2;
 kt,1;is,2;lq,2;jp,2;mq,2;nq,2;oq,2;pq,2;qq,2;qp,1;rp,1;
 rq,2;qr,2;sq,2;tq,2;uq,2;vq,2;wr,1;xr,1;yr,1;ws,1;zs,2;
 2618,2;yt,1;xt,1;wd,1;we,2;wf,1;
+moves

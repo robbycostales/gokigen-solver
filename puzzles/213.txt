@@ -57,3 +57,4 @@ la,2;mb,2;ma,1;nb,2;mc,2;nc,1;na,1;nd,1;md,2;lk,2;ll,2;
 kk,2;kl,1;jl,1;jm,2;im,2;il,1;lm,2;nj,2;nk,1;gk,1;mm,2;
 mn,2;nm,2;nn,1;ln,2;kn,2;ml,2;nl,2;mk,2;mj,2;jk,1;hn,1;
 in,1;jn,1;fn,2;em,1;dm,1;gn,2;gm,2;gl,2;ik,1;hk,2;
+moves

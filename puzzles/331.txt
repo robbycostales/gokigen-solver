@@ -40,3 +40,4 @@ fg,2;he,2;dd,2;jb,2;jc,2;ib,2;ic,1;ha,1;hb,2;ia,2;ga,1;
 id,1;ie,1;hd,2;if,1;gd,2;gc,2;gb,2;fb,1;hc,1;dc,2;cc,2;
 cb,2;db,1;bc,1;bb,2;ab,2;ac,1;aa,2;ba,2;ca,2;da,2;ea,2;
 fa,2;eb,2;
+moves

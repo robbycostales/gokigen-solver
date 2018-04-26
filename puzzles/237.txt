@@ -79,3 +79,4 @@ ck,1;bk,2;dm,2;dl,1;dk,1;ek,1;el,2;em,2;cj,1;dj,1;di,1;
 ci,1;ch,1;dh,2;cg,1;eg,1;dg,2;df,2;cf,1;lk,2;mk,2;nk,2;
 nl,1;ol,1;ok,1;pk,2;pj,2;qf,2;pf,2;of,2;oe,1;fm,1;fn,1;
 en,1;dn,2;gf,2;ff,1;fg,1;ef,1;de,2;ce,2;bd,1;qo,2;pn,2;
+moves

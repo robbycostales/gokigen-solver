@@ -71,3 +71,4 @@ if,2;hf,2;hg,2;ib,2;ia,2;ic,1;ca,1;eb,1;fb,1;ea,1;fa,2;
 da,1;db,1;dc,1;ec,2;cc,2;bc,2;ac,2;ab,1;aa,1;ad,1;bd,2;
 cd,2;be,2;bf,2;ae,1;af,1;ag,1;bg,2;ah,1;ai,1;aj,1;bk,2;
 ck,2;dk,2;dl,2;dm,2;dn,2;en,1;na,1;
+moves

@@ -72,3 +72,4 @@ oh,1;ph,1;li,2;kh,2;lj,2;lm,1;ln,1;lo,1;ko,1;jg,1;ig,2;
 hg,2;hf,1;jh,1;eh,2;fh,2;gh,2;gg,1;hh,2;ih,2;ii,2;hi,1;
 gi,2;cf,2;be,2;bd,2;af,2;ce,1;bf,1;ad,1;ag,2;ah,2;cc,1;
 bc,1;ac,1;cd,2;ae,2;
+moves

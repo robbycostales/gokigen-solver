@@ -148,3 +148,4 @@ wq,2;vr,2;wr,1;vo,1;wn,1;wo,2;wm,1;sr,1;sq,1;rq,1;rr,2;
 qs,1;xt,1;wt,1;wu,2;vu,1;ws,1;xs,1;xr,1;xq,1;yr,1;ys,1;
 zs,1;zr,1;2617,2;2717,2;2817,1;2716,2;2616,2;sx,1;xp,1;
 wp,2;
+moves

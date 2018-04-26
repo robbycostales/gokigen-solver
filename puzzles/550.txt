@@ -71,3 +71,4 @@ dj,2;cj,2;bj,2;aj,2;ii,1;ij,1;ik,1;ji,2;jh,2;ih,1;hh,1;
 kg,1;kf,1;ke,1;il,1;kk,2;lm,2;ll,2;lk,2;mk,2;nk,2;om,2;
 on,1;pn,1;pm,2;ol,2;nm,2;nn,2;mm,1;mn,1;pl,2;ok,2;pk,2;
 qk,2;ql,1;pj,2;oj,2;rk,2;rl,1;qm,1;
+moves

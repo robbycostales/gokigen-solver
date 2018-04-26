@@ -125,3 +125,4 @@ aj,2;di,1;cj,2;bj,2;ei,1;ai,1;hi,2;gi,2;gh,1;gj,2;hj,1;
 ij,1;ed,2;ee,1;dd,2;ec,1;eb,1;ea,1;fa,2;fd,2;fe,2;he,2;
 gd,2;gc,2;ge,2;gf,1;gg,1;ef,1;eg,2;dg,2;cg,2;bg,2;ag,2;
 eh,1;dh,1;ch,1;bh,1;ah,1;fh,1;fg,2;ff,2;fi,1;fj,1;fk,1;
+moves

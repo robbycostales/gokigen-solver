@@ -39,3 +39,4 @@ jg,1;jh,1;ig,1;ih,2;ji,1;ii,1;ij,2;hh,2;hi,1;gi,1;gh,2;
 hg,1;hj,2;fi,1;fg,1;fh,2;gg,2;eh,2;eg,1;ei,1;ef,1;ff,2;
 fe,2;gf,2;ge,1;he,1;hf,1;id,1;ie,2;jd,2;if,2;hf,2;ja,1;
 ia,1;ha,1;ib,1;hb,2;hc,2;gc,1;ic,1;hd,1;gd,1;fd,2;
+moves

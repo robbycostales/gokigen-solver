@@ -56,3 +56,4 @@ dk,1;cj,1;bj,1;ek,1;el,2;fl,2;fk,1;gk,1;hk,1;fg,2;ff,2;
 eg,1;dg,2;jg,1;kg,2;lh,2;fe,2;hd,2;fd,1;hb,1;ha,2;gc,2;
 gb,1;hc,1;gd,2;fb,1;ga,1;fc,1;me,2;ne,1;od,2;pd,2;oc,2;
 pc,1;ob,2;pb,2;oa,2;pa,1;nk,2;nj,2;oi,2;
+moves

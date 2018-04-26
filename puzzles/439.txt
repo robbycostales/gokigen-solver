@@ -71,3 +71,4 @@ mf,1;me,1;lf,1;md,1;kf,1;li,1;ki,1;mj,2;nj,2;oj,2;mk,2;
 lk,1;nk,2;ok,2;pk,2;pj,2;qk,2;qj,1;qi,1;qh,1;rk,1;ll,1;
 kl,2;jl,1;il,1;hl,1;hk,2;gk,2;gj,1;gl,2;gm,2;hm,1;fn,1;
 gn,2;hn,2;fm,2;in,2;en,2;em,2;ta,1;
+moves

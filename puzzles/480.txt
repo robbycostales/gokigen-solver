@@ -71,3 +71,4 @@ rc,2;rd,2;qd,2;qc,1;ue,1;uf,1;ug,1;ud,1;vd,1;wd,1;xd,1;
 pd,1;od,2;pc,1;pb,1;oc,1;ob,2;oa,2;nb,2;na,1;qb,1;qa,1;
 pa,2;ra,1;sa,1;pk,1;pj,1;mi,2;lh,2;kg,1;jg,1;og,2;nd,2;
 nc,1;mb,2;ma,2;lb,2;kb,2;jb,2;em,2;
+moves

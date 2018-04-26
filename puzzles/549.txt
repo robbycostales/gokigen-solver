@@ -71,3 +71,4 @@ mn,2;nn,1;on,1;qm,1;qn,2;om,2;nm,2;ql,1;pm,2;pn,2;rm,2;
 rl,1;rn,2;sn,2;tn,2;un,1;vn,1;um,1;vm,2;xn,2;xm,2;wn,2;
 wm,1;vl,1;tk,1;tl,2;vk,2;sk,1;sl,2;sm,2;tm,1;uk,1;ul,1;
 rk,1;wl,1;wk,2;xk,2;xl,1;wj,1;vj,1;
+moves

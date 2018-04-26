@@ -148,3 +148,4 @@ pg,1;of,2;ok,1;nk,1;ml,2;ll,2;lm,1;kl,2;kk,2;fk,2;fq,1;
 fr,1;er,1;eq,2;ds,2;es,1;dr,1;dq,1;cr,1;cq,2;cp,2;bq,2;
 dp,2;br,2;fs,1;bl,1;bm,1;an,2;cs,2;ct,2;cu,2;bv,1;av,1;
 bw,1;bx,1;
+moves

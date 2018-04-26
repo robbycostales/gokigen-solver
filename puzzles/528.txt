@@ -72,3 +72,4 @@ fe,1;ff,1;fg,2;ed,2;ee,1;ef,1;de,1;dd,1;ce,1;cd,2;dg,2;
 eg,1;cf,1;cg,2;bg,2;gb,2;fb,1;fa,1;ga,2;ha,2;ec,2;eb,1;
 dc,1;db,1;cb,2;bb,2;ab,2;aa,2;ba,2;ca,2;da,2;ea,2;hb,1;
 ic,2;id,2;mp,1;mq,1;
+moves

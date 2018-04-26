@@ -72,3 +72,4 @@ lb,1;ma,1;na,1;la,2;lc,2;kc,2;jd,2;id,2;hd,2;hc,1;gc,1;
 gd,2;fd,2;fc,1;fb,1;ed,2;dd,2;cd,2;pe,1;pf,1;pa,1;oa,2;
 pb,2;qb,2;qc,2;qd,2;qe,2;qf,2;qg,2;qa,1;pg,2;ph,2;qh,2;
 hb,2;ha,2;kb,1;ka,2;
+moves

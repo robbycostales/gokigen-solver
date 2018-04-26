@@ -79,3 +79,4 @@ ui,2;si,2;ne,1;me,1;le,1;ke,1;jd,2;id,1;mi,2;li,2;ki,2;
 fj,1;fk,1;ek,2;dk,2;dj,1;di,1;ei,2;fi,2;dh,1;gk,1;cl,1;
 dl,2;cm,1;cn,1;co,1;cp,1;bo,1;bp,2;an,2;ao,1;ap,1;eh,2;
 eg,2;dg,1;cg,1;hk,2;il,1;im,1;ko,2;lo,2;kp,2;jp,2;mn,1;
+moves

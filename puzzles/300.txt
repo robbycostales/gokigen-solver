@@ -125,3 +125,4 @@ do,2;dp,2;dq,2;ep,2;eq,1;cq,1;cr,1;bq,1;br,2;ar,2;aq,1;
 dr,2;en,2;eo,2;fo,1;hn,1;go,1;gp,1;gq,1;fp,1;fq,2;fr,2;
 er,1;gs,1;gr,2;fs,2;hr,2;ir,2;hs,2;is,1;gt,1;ft,1;es,2;
 ds,2;cs,2;bs,2;as,2;sg,2;tf,1;te,1;yi,2;
+moves

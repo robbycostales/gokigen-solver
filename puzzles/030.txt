@@ -79,3 +79,4 @@ hc,2;ib,1;hf,2;if,2;jf,2;hj,1;ij,2;ld,2;lc,2;mg,1;mf,2;
 jg,1;me,2;le,2;ke,2;kf,2;kg,2;kh,2;jh,1;gg,2;lf,2;lg,2;
 lh,2;lb,2;la,2;kb,2;ka,1;ja,1;jb,2;jj,2;ih,2;ig,2;hh,2;
 hg,2;li,1;lj,1;ki,1;ji,1;ii,1;hi,1;ik,1;hk,1;kj,1;fg,2;
+moves

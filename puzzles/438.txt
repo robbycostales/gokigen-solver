@@ -57,3 +57,4 @@ nc,2;nb,2;mj,2;ki,2;kj,2;kk,2;kl,2;jl,1;lm,1;ll,2;km,2;
 jm,2;lk,2;mk,2;ml,2;mm,2;nm,2;mn,2;nn,1;nl,2;nk,2;ln,2;
 kn,2;jn,2;cf,1;ce,1;de,1;cd,1;cc,1;dc,2;ec,2;db,2;eb,1;
 ea,1;da,2;cb,2;ca,1;ba,1;ed,1;fc,2;fb,2;ee,1;cg,2;
+moves

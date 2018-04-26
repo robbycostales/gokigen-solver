@@ -71,3 +71,4 @@ ai,1;bi,2;aj,1;bk,2;ck,2;ci,2;cg,1;ce,1;cd,1;bd,2;ad,2;
 ac,1;ab,1;bb,2;cb,2;dc,2;dd,1;db,2;eb,2;fb,2;fc,2;gc,1;
 gd,1;fd,2;ec,2;ed,1;ee,1;de,1;df,1;dg,1;dh,2;eh,2;fh,2;
 hc,1;ic,1;jc,1;kc,1;ld,1;mf,2;in,1;
+moves

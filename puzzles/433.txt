@@ -49,3 +49,4 @@ hi,1;jj,1;lk,1;lj,2;ll,2;kl,2;kk,2;ik,2;jk,1;ij,2;ii,2;
 hk,1;gk,1;gj,1;fj,1;fk,2;fl,2;ek,2;el,1;dl,1;cl,1;gl,1;
 hl,1;il,1;jl,1;ej,1;fi,1;kj,2;ki,2;kh,2;jh,1;jg,1;jf,1;
 bb,2;gi,1;
+moves

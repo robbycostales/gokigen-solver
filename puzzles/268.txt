@@ -79,3 +79,4 @@ rd,1;qe,1;qd,1;pd,1;pc,2;sh,1;si,1;ri,2;rj,2;qj,1;pj,1;
 sk,1;sj,2;rk,2;oc,1;od,1;nd,1;md,1;ld,1;lc,1;pe,1;oe,1;
 ne,1;sp,1;pk,2;pl,2;ql,2;rl,2;qk,2;sl,2;tl,2;tk,2;nn,1;
 no,1;np,1;op,2;mp,2;we,2;wf,2;xf,2;wg,2;xe,2;xg,1;xh,1;
+moves

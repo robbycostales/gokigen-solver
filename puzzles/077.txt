@@ -79,3 +79,4 @@ uf,2;ue,2;ud,2;qf,2;qg,2;pf,2;qh,2;of,2;ib,2;ic,1;hc,1;
 hb,2;ha,2;gb,2;ia,2;ja,2;gc,2;am,1;an,2;aj,1;ak,1;bm,1;
 bn,1;bl,2;al,2;co,2;cp,2;bp,1;ap,1;rf,1;sf,1;sg,1;oe,1;
 ne,1;jc,1;jb,1;kc,2;kd,2;jd,1;id,1;ld,1;md,1;me,2;nd,1;
+moves

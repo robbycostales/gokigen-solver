@@ -72,3 +72,4 @@ he,1;hg,1;gg,1;hh,1;gh,2;gi,2;ig,2;ih,1;jf,1;jg,2;if,2;
 ie,2;id,2;je,2;jd,1;kf,1;lf,1;mf,1;me,1;le,1;ke,1;kd,1;
 ld,1;md,1;mc,1;nc,2;nb,2;ic,2;hd,1;hc,1;hb,1;ib,1;ia,1;
 ha,1;bm,1;bn,2;bo,2;
+moves

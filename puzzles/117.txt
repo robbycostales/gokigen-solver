@@ -79,3 +79,4 @@ wo,2;wp,1;vp,1;up,1;vo,1;uo,1;tg,2;th,2;ti,2;si,1;ri,1;
 uh,2;ui,2;uj,2;tj,1;vi,1;sj,1;sk,2;sl,2;rl,1;ql,1;pl,1;
 qm,1;rm,1;sm,2;rn,2;qn,1;sn,2;so,2;ro,1;qo,1;rp,2;sp,2;
 to,2;tp,1;un,1;tn,2;vn,1;um,1;tm,1;ul,2;uk,2;tk,2;tl,2;
+moves

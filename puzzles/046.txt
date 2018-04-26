@@ -79,3 +79,4 @@ lc,2;qf,1;qg,1;rg,1;rh,1;ri,1;sg,1;qj,2;rj,1;rk,1;qk,2;
 rl,1;rm,1;rn,1;sn,1;sm,2;sl,2;sk,2;sj,2;tj,2;ti,1;th,1;
 uh,1;ui,2;uj,2;vi,2;vh,1;tg,1;ug,1;vg,1;vj,2;vk,2;uk,1;
 wl,2;wk,2;vl,2;xk,2;wh,2;tk,2;vm,2;um,1;tm,1;pj,1;pk,1;
+moves

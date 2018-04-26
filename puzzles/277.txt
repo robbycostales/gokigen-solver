@@ -72,3 +72,4 @@ mb,2;ma,2;la,1;ka,1;kb,1;ld,1;md,2;le,1;oc,1;nd,2;nc,1;
 nb,1;na,1;jk,1;kk,1;lk,1;be,2;ae,2;ce,2;de,2;df,2;ef,1;
 ff,1;gf,1;eg,1;gg,1;hg,2;fg,1;hd,1;gc,2;gb,2;hb,1;ib,1;
 ga,2;fb,2;eb,2;da,1;
+moves

@@ -71,3 +71,4 @@ nl,2;mm,2;mn,2;ln,1;nk,2;ol,2;hl,2;il,1;gk,1;gj,2;hk,1;
 ik,1;dj,1;cj,1;ci,2;ch,2;bh,1;bg,1;bf,1;af,1;ag,1;ck,1;
 pl,2;ql,1;hb,2;an,2;am,1;bm,1;bn,2;cn,2;cm,2;cl,2;bl,1;
 bk,1;ak,1;al,2;aj,1;bj,1;ai,1;ah,1;
+moves

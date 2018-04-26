@@ -71,3 +71,4 @@ aj,1;ak,1;al,1;bl,1;am,1;bm,2;bn,2;an,1;cm,2;bj,1;cj,1;
 of,2;pf,2;ng,1;nh,1;mh,2;qf,2;qe,2;qd,2;pe,2;qc,2;qb,2;
 rc,2;rb,1;rd,2;re,2;rf,2;sb,1;tb,1;ta,1;ua,2;va,2;wa,2;
 sa,1;ra,1;qa,1;wc,2;wb,2;wd,2;xe,1;
+moves

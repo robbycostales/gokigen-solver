@@ -79,3 +79,4 @@ wc,1;xc,1;xd,2;xe,2;tb,1;sc,2;qd,1;qe,1;pf,1;og,1;oh,1;
 ng,1;mg,1;pe,1;pd,1;pi,2;qi,1;ri,1;rh,1;sg,2;tg,2;tf,1;
 th,2;sh,1;ug,1;uh,2;uf,1;ue,1;vh,2;vi,2;ui,1;ti,1;uj,1;
 vj,1;si,1;wj,2;wi,2;xi,2;xh,2;wh,2;uk,2;ul,2;um,2;un,2;
+moves

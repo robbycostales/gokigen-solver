@@ -39,3 +39,4 @@ ff,2;fg,1;ef,2;df,2;cf,2;bf,2;af,2;bg,2;ag,1;ah,1;bh,2;
 ai,1;bi,2;ch,2;cg,1;gh,1;gi,1;fh,1;fi,2;de,2;ee,2;ed,2;
 ec,2;fd,2;fc,1;fb,1;gc,1;gb,2;eb,1;gd,1;fe,2;ge,2;he,2;
 hd,1;ie,2;id,2;jd,2;hb,2;ha,2;hc,1;
+moves

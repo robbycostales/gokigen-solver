@@ -72,3 +72,4 @@ fp,2;in,1;hn,2;de,2;dd,2;cd,1;cc,1;dc,2;db,2;cb,1;da,2;
 eb,2;fb,2;bd,1;bc,1;ac,1;ad,2;ae,2;af,2;ag,2;ah,2;bh,1;
 ch,1;ci,2;cj,2;bj,1;aj,1;ck,2;dk,2;dj,2;di,2;bl,1;bb,1;
 ba,1;ab,1;aa,2;ca,1;
+moves

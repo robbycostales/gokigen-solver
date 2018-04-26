@@ -72,3 +72,4 @@ on,2;om,2;nm,1;pm,2;qm,1;km,1;kn,1;jo,1;jn,2;lm,2;mm,2;
 in,2;io,1;ho,1;hn,2;gp,2;hp,1;go,1;fp,2;gq,2;im,2;hm,1;
 gn,2;jp,2;ip,1;hq,2;iq,2;jq,2;jm,2;jj,1;kj,1;jk,1;jl,1;
 il,2;ih,2;hh,1;gi,1;
+moves

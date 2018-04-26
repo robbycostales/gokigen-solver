@@ -125,3 +125,4 @@ zo,1;zp,1;zq,1;yq,2;2617,2;2616,1;zr,1;yr,2;ys,2;2717,2;
 yi,2;yj,1;yh,1;yg,1;xi,2;xj,2;yf,1;ye,1;yd,1;xc,2;xb,2;
 xa,2;wa,1;ya,1;za,1;hm,2;gl,2;fl,2;el,2;dk,1;ck,1;bk,1;
 ak,1;al,2;ur,2;uq,2;tr,2;sr,2;sq,2;tq,2;
+moves

@@ -56,3 +56,4 @@ nc,1;nb,1;mb,2;ma,2;na,1;md,2;nd,2;oc,1;ob,2;oa,2;la,2;
 ra,1;mg,1;lf,1;lg,2;le,1;me,1;ne,1;ml,1;gc,2;ha,2;ga,1;
 fd,1;fc,2;fe,1;ge,2;he,2;ff,1;fg,1;gg,2;gh,2;hg,2;hh,1;
 fh,2;eg,2;fb,1;fa,1;gb,1;hb,1;ec,2;ed,2;
+moves

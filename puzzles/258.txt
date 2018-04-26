@@ -79,3 +79,4 @@ tc,2;kn,2;jn,2;go,1;ln,1;lo,1;lm,1;mn,1;kl,2;kk,2;lj,1;
 mo,1;no,1;np,1;op,2;mp,1;lp,1;nn,2;ii,1;ji,1;ki,1;li,1;
 mi,1;ni,1;nj,1;mj,1;ih,1;ig,1;jg,2;nf,2;dc,2;cc,2;ec,2;
 cd,2;bd,2;bc,1;ad,2;ac,2;ab,2;bb,1;aa,2;ba,2;ca,2;da,2;
+moves

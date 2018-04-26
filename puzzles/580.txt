@@ -72,3 +72,4 @@ cg,1;ch,1;em,2;ig,2;hg,1;hh,1;hi,1;hj,1;gi,1;gj,2;gk,2;
 fk,2;fl,1;el,1;ek,2;dk,2;dl,1;jf,2;if,2;hf,2;fh,2;eh,1;
 ei,1;fi,2;dj,2;ej,1;di,1;gh,1;gg,1;gf,1;dh,1;ci,1;cj,2;
 ck,2;bk,2;fj,1;ll,2;
+moves

@@ -148,3 +148,4 @@ hu,2;gu,2;lq,1;oi,1;oh,1;ng,2;nf,1;ne,1;qj,2;rj,2;sk,1;
 sj,1;tj,1;si,1;ti,2;tk,1;tl,1;uk,2;uj,2;ui,2;th,2;uh,1;
 sh,1;ug,1;uf,1;ue,1;ve,2;vd,2;ud,1;uc,1;vc,1;wd,2;xd,2;
 vi,2;wi,2;xi,2;
+moves

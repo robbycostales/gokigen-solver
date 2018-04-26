@@ -72,3 +72,4 @@ bj,1;aj,1;ai,1;ch,1;gm,1;fm,1;em,1;fn,2;fo,2;fp,2;gp,1;
 en,2;fd,1;hd,2;gd,1;gc,1;lf,1;le,1;md,2;mc,2;nc,1;nb,1;
 mb,2;ma,2;na,1;oa,1;pa,1;ob,1;pb,1;qb,1;qa,2;oe,2;od,2;
 oc,2;pc,2;qc,2;qd,1;
+moves

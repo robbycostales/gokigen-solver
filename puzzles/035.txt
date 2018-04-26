@@ -148,3 +148,4 @@ kj,1;jj,1;rn,1;ro,1;rp,2;sp,1;vp,2;gp,1;eq,2;dp,2;cp,2;
 co,1;bo,1;bp,2;cn,2;bn,1;bm,1;cm,2;dm,2;am,1;ng,2;og,2;
 pg,2;ph,1;qf,1;zn,2;zo,2;2614,2;zp,2;2714,2;zq,2;yq,1;
 xq,1;wp,1;wq,2;3207,1;3405,1;
+moves

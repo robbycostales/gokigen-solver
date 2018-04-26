@@ -79,3 +79,4 @@ ua,1;va,1;sb,2;oe,2;ne,2;od,2;mf,2;ob,1;pa,1;sg,2;rg,1;
 di,2;dj,2;ek,1;fk,1;el,1;dl,2;cl,2;ck,1;cm,2;cn,2;dn,2;
 do,1;em,1;en,2;dm,2;fl,2;fm,1;eo,1;fn,1;fo,1;go,1;ho,1;
 fp,1;io,1;jo,1;jn,2;kn,2;ko,1;kp,1;ln,2;gl,2;hl,2;ik,2;
+moves

@@ -79,3 +79,4 @@ mg,2;ng,1;nh,1;mh,2;pg,1;ph,2;qh,2;qg,1;mi,1;og,2;oh,2;
 qf,1;qe,1;qd,1;re,1;rd,2;rc,1;sb,1;rb,2;ra,2;sa,1;qa,2;
 pa,2;tb,2;ud,1;td,1;sd,1;ec,2;fc,1;ed,2;eb,2;fb,2;ea,2;
 da,2;gb,2;hb,2;ha,2;ia,2;ib,2;ge,2;fe,2;fd,2;dh,1;di,2;
+moves

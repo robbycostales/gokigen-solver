@@ -71,3 +71,4 @@ rj,1;ri,1;qi,1;qj,2;sl,1;qm,1;qn,1;pl,1;pk,2;nn,1;mn,2;
 ln,2;om,2;on,1;nm,1;pn,1;pm,2;ol,2;ok,2;mm,1;lm,1;ll,2;
 kn,2;km,1;jm,1;jn,2;kl,2;jl,1;il,1;hl,1;hm,1;im,2;in,2;
 gm,1;gl,1;fk,2;ei,2;di,2;eh,2;dh,2;
+moves

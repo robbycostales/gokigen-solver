@@ -79,3 +79,4 @@ md,2;mc,2;le,1;lf,1;kf,1;lg,1;jn,1;jo,1;jm,1;jp,1;ip,1;
 em,1;el,1;fl,1;fk,2;gl,1;fm,2;fn,2;hl,1;hk,1;hj,1;il,2;
 jl,2;ji,2;fj,2;fi,2;gi,1;fh,2;hi,1;ii,2;ol,1;pl,2;pm,2;
 pn,2;po,2;qm,2;qn,2;rn,2;ro,2;rp,2;qo,2;qp,2;pp,2;tf,2;
+moves

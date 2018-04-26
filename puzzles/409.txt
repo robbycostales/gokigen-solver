@@ -71,3 +71,4 @@ nc,1;md,2;me,2;le,1;kd,2;kc,2;kb,2;ic,2;ng,1;li,1;lj,1;
 lk,1;kk,2;jk,2;jm,1;jn,1;ij,1;ik,2;hk,2;hl,2;il,2;jl,2;
 kl,2;ll,1;gm,1;gn,1;fm,1;fn,1;em,1;el,2;dl,2;en,1;cl,2;
 bl,2;bk,1;al,2;am,2;bm,1;bj,1;bi,1;
+moves
