@@ -410,6 +410,7 @@ if __name__ == "__main__":
 
         puzzle, solution = readPuzzle(fileNames[i])
         print(np.matrix(puzzle))
+        print(np.matrix(solution))
         rows = len(puzzle)
         cols = len(puzzle[0])
 

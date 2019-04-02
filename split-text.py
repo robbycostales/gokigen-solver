@@ -23,8 +23,5 @@ def splitPuzzles(fileName):
         newFile.write("moves")
         newFile.close()
 
-
-
-
 if __name__ == "__main__":
     splitPuzzles("og-text/Gokigen.txt")
