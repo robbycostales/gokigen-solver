@@ -119,6 +119,7 @@ class Solver:
             self.place(m, n, slash)
 
             if self.check_neighbors(nexti) and not self.check_cycles(nexti):
+            # if not self.check_cycles(nexti) and self.check_neighbors(nexti):
                 # check that the neighboring numbers can be satistfied after this placement
                 # check that there are no cycles
                 # we want to keep placement, and make next call
@@ -361,7 +362,7 @@ if __name__ == "__main__":
         print("running test {} / {}   ({} / {} found so far... {}%)".format(str(i+1), str(len(filenames)), str(total_solved), str(total_solved + total_unsolved), perc))
 
         # PUZZLE SIZE RANGE TO SOLVE
-        if  not (0 <= solver.size <= 1000):
+        if  not (0 <= solver.size <= 81):
             print("skipping size {}...".format(solver.size))
             continue
 
@@ -397,7 +398,7 @@ if __name__ == "__main__":
         patches, texts = plt.pie(values, colors=colors, shadow=True, startangle=90)
         plt.legend(patches, labels, loc="best")
         plt.axis('equal')
-        plt.title('Puzzle size breakdown (out of 621)')
+        plt.title('Puzzle size breakdown (out of 620)')
         plt.tight_layout()
         plt.show()
 
